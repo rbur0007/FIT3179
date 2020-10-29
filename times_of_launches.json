@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "height": 175,
+  "height": 160,
   "width": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/rbur0007/FIT3179/main/spacelaunch_daytime_single_count.csv"

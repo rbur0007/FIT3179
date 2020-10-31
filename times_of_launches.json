@@ -1,32 +1,48 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "height": 160,
-  "width": 400,
   "data": {
-    "url": "https://raw.githubusercontent.com/rbur0007/FIT3179/main/spacelaunch_daytime_single_count.csv"
+    "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/spacelaunch_simple_time.csv"
   },
-  "mark": {"type": "circle", "fill": "#05087F"},
+  "mark": "rect",
   "encoding": {
     "y": {
-      "field": "Datum",
-      "type": "ordinal",
-      "timeUnit": "day",
-      "sort": ["mon", "tue", "wed", "thu", "fri", "sat", "sun"],
+      "field": "day",
+      "type": "nominal",
+      "sort": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
       "title": "Day of the Week"
     },
     "x": {
-      "field": "Datum",
-      "type": "ordinal",
-      "timeUnit": "hours",
+      "field": "time",
+      "sort": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
       "title": "Hours"
     },
-    "size": {
-      "field": "count",
-      "type": "quantitative",
-      "aggregate": "sum",
-      "scale": {"domain": [2, 80]},
-      "title": "Number of Launches"
-    }
+    "color": {"aggregate": "count", "field": "count"}
   },
-  "config": {}
+  "config": {"axis": {"grid": true, "tickBand": "extent"}}
 }

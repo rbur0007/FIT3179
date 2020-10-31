@@ -2358,7 +2358,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2421,RVSN USSR,"Site 16/2, Plesetsk Cosmodrome, Russia",Thu 10:00 UTC,Molniya-M /Block 2BL | Cosmos 1247,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,10,1
 2422,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Thu 18:21 UTC,Cosmos-3M (11K65M) | Cosmos 1244,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,18,1
 2423,MHI,"LA-Y1, Tanegashima Space Center, Japan",Wed 08:30 UTC,N-II Star-37E | Kiku 3,StatusRetired,,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Wed,8,1
-,,,,,,,,,,,,,,
 2425,RVSN USSR,"Site 90/20, Baikonur Cosmodrome, Kazakhstan",Mon 02:19 UTC,Tsyklon-2 | Cosmos 1243,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Mon,2,1
 2426,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Fri 16:27 UTC,Molniya-M /Block ML | Molniya-1 n†­89,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,16,1
 2427,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Tue 14:58 UTC,Vostok-2M | Cosmos 1242,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,14,1
@@ -2366,13 +2365,10 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2429,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Wed 08:29 UTC,Cosmos-3M (11K65M) | Cosmos 1241,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,8,1
 2430,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Fri 09:00 UTC,Cosmos-3M (11K65M) | Cosmos 1238,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,9,1
 2431,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Fri 14:57 UTC,Molniya-M /Block ML | Molniya-3 n†­88,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,14,1
-,,,,,,,,,,,,,,
 2433,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Tue 22:48 UTC,Cosmos-3M (11K65M) | Cosmos 1228 to 1235,StatusRetired,,Partial Failure,Russia,40.574814,62.927843,62.927843_40.574814,Tue,22,1
-,,,,,,,,,,,,,,
 2435,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Wed 20:53 UTC,Cosmos-3M (11K65M) | Cosmos 1226,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,20,1
 2436,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",Tue 07:18 UTC,Atlas-E/F MSD | NOSS-4,StatusRetired,,Failure,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Tue,7,1
 2437,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",Sat 23:31 UTC,Atlas-SLV3D Centaur-D1AR | Intelsat V -502,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,23,1
-,,,,,,,,,,,,,,
 2439,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Fri 04:23 UTC,Cosmos-3M (11K65M) | Cosmos 1225,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,4,1
 2440,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Thu 21:37 UTC,Molniya-M /Block 2BL | Cosmos 1223,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,21,1
 2441,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Fri 11:53 UTC,Vostok-2M | Cosmos 1222,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,11,1
@@ -2425,7 +2421,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2488,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Wed 09:00 UTC,Cosmos-3M (11K65M) | Cosmos 1146,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,9,1
 2489,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Tue 09:55 UTC,Vostok-2M | Cosmos 1145,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,9,1
 2490,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",Wed 02:09 UTC,Titan III(23)C | DSCS-II 13&14,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,2,1
-,,,,,,,,,,,,,,
 2492,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Wed 09:25 UTC,Vostok-2M | Meteor-2 n†­6,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,9,1
 2493,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Fri 18:12 UTC,Vostok-2M | Cosmos 1143,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,18,1
 2494,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Sat 07:03 UTC,Molniya-M /Block ML | Molniya-1 n†­82,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,7,1
@@ -2461,7 +2456,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2524,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",Fri 18:30 UTC,Titan IIID | KH-9 & SSF-D-3,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,18,1
 2525,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Thu 02:58 UTC,Cosmos-3M (11K65M) | Cosmos 1081 to 1088,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,2,1
 2526,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Thu 18:45 UTC,Vostok-2M | Meteor-2 n†­5,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,18,1
-,,,,,,,,,,,,,,
 2528,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",Sat 08:20 UTC,Atlas-E/F OIS | Solwind,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sat,8,1
 2529,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Tue 21:41 UTC,Vostok-2M | Cosmos 1077,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,21,1
 2530,RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia",Mon 13:00 UTC,Tsyklon-3 | Cosmos 1076,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,13,1
@@ -2473,7 +2467,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2536,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Thu 16:30 UTC,Soyuz U | Cosmos 1069,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,16,1
 2537,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Tue 15:30 UTC,Soyuz U | Cosmos 1068,StatusRetired,,Partial Failure,Russia,40.574814,62.927843,62.927843_40.574814,Tue,15,1
 2538,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Tue 13:30 UTC,Cosmos-3M (11K65M) | Cosmos 1067,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,13,1
-,,,,,,,,,,,,,,
 2540,RVSN USSR,"Site 107/1, Kapustin Yar, Russia",Fri 22:00 UTC,Cosmos-3M (11K65M) | Cosmos 1065,StatusRetired,,Success,Russia,45.766895,48.575634,48.575634_45.766895,Fri,22,1
 2541,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Wed 20:43 UTC,Cosmos-3M (11K65M) | Cosmos 1064,StatusRetired,,Partial Failure,Russia,40.574814,62.927843,62.927843_40.574814,Wed,20,1
 2542,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Tue 01:35 UTC,Vostok-2M | Cosmos 1063,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,1,1
@@ -2490,9 +2483,7 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2553,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Wed 11:45 UTC,Soyuz U | Cosmos 1047,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,11,1
 2554,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",Mon 05:24 UTC,Atlas-SLV3D Centaur-D1AR | HEAO-2,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,5,1
 2555,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Wed 12:00 UTC,Soyuz U | Cosmos 1046,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,12,1
-,,,,,,,,,,,,,,
 2557,RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia",Thu 07:00 UTC,Tsyklon-3 | Cosmos 1045 & Radio 1 and 2,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,7,1
-,,,,,,,,,,,,,,
 2559,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Tue 15:00 UTC,Soyuz U | Cosmos 1044,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,15,1
 2560,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",Fri 11:23 UTC,Atlas-E/F Star-37S-ISS | Tiros-N,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,11,1
 2561,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Fri 05:19 UTC,Molniya-M /Block ML | Molniya-3 n†­77,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,5,1
@@ -2509,7 +2500,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2572,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Tue 23:47 UTC,Molniya-M /Block ML | Molniya-1 n†­76,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,23,1
 2573,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",Tue 07:33 UTC,Atlas-SLV3D Centaur-D1AR | Pioneer Venus Multiprobe,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,7,1
 2574,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Sat 15:00 UTC,Soyuz U | Cosmos 1028,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,15,1
-,,,,,,,,,,,,,,
 2576,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Thu 04:49 UTC,Cosmos-3M (11K65M) | Cosmos 1027,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,4,1
 2577,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Fri 15:00 UTC,Molniya-M /Block ML | Molniya-1 n†­75,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,15,1
 2578,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",Thu 22:24 UTC,Atlas-SLV3D Centaur-D1AR | Comstar D3,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,22,1
@@ -2592,10 +2582,8 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2655,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Sun 02:40 UTC,Soyuz U | Soyuz 25,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sun,2,1
 2656,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Fri 09:46 UTC,Soyuz U | Cosmos 957,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,9,1
 2657,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",Fri 01:02 UTC,Atlas-SLV3D Centaur-D1AR | Intelsat 4A F5,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,1,1
-,,,,,,,,,,,,,,
 2659,RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia",Sat 10:15 UTC,Tsyklon-3 | Cosmos 956,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,10,1
 2660,US Air Force,"SLC-4W, Vandenberg AFB, California, USA",Fri 18:34 UTC,Titan III(24)B | OPS 7471,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,18,1
-,,,,,,,,,,,,,,
 2662,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Tue 01:00 UTC,Vostok-2M | Cosmos 955,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,1,1
 2663,RVSN USSR,"Site 90/20, Baikonur Cosmodrome, Kazakhstan",Sun 13:48 UTC,Tsyklon-2 | Cosmos 954,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sun,13,1
 2664,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Fri 14:30 UTC,Soyuz U | Cosmos 953,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,14,1
@@ -2652,14 +2640,12 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2715,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",Thu 14:27 UTC,Titan III(23)C | DSCS-II 7&8,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,14,1
 2716,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Thu 14:00 UTC,Soyuz U | Cosmos 907,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,14,1
 2717,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Thu 09:10 UTC,Molniya-M /Block ML | Molniya-3 n†­68,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,9,1
-,,,,,,,,,,,,,,
 2719,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Tue 14:45 UTC,Soyuz U | Cosmos 905,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,14,1
 2720,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Wed 09:00 UTC,Soyuz U | Cosmos 904,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,9,1
 2721,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Mon 01:38 UTC,Molniya-M /Block 2BL | Cosmos 903,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,1,1
 2722,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Thu 08:59 UTC,Soyuz U | Cosmos 902,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,8,1
 2723,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Tue 10:30 UTC,Cosmos-2I (63SM) | Cosmos 901,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,10,1
 2724,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Tue 02:05 UTC,Vostok-2M | Meteor n†­37,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,2,1
-,,,,,,,,,,,,,,
 2726,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Thu 22:11 UTC,Cosmos-3M (11K65M) | Cosmos 899,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,22,1
 2727,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Thu 11:51 UTC,Molniya-M /Block ML | Molniya-1 n†­67,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,11,1
 2728,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Thu 08:30 UTC,Soyuz U | Cosmos 898,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,8,1
@@ -2671,7 +2657,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2734,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Tue 09:19 UTC,Soyuz U | Zenit-4MK n†­381,StatusRetired,,Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,9,1
 2735,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Mon 17:20 UTC,Cosmos-3M (11K65M) | Cosmos 894,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,17,1
 2736,ISAS,"Mu Pad, Uchinoura Space Center, Japan",Sat 05:15 UTC,Mu-III H | Tansei 3,StatusRetired,,Success,Japan,131.0787961,31.25411165,31.25411165_131.07879609473065,Sat,5,1
-,,,,,,,,,,,,,,
 2738,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Fri 14:57 UTC,Molniya-M /Block ML | Molniya-2 n†­66,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,14,1
 2739,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Wed 11:30 UTC,Soyuz U | Cosmos 892,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,11,1
 2740,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Mon 16:11 UTC,Soyuz U | Soyuz 24,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Mon,16,1
@@ -2696,7 +2681,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2759,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Thu 00:17 UTC,Cosmos-3M (11K65M) | Cosmos 870,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,0,1
 2760,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Mon 16:04 UTC,Soyuz U | Cosmos 869,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Mon,16,1
 2761,RVSN USSR,"Site 90/20, Baikonur Cosmodrome, Kazakhstan",Fri 14:30 UTC,Tsyklon-2 | Cosmos 868,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,14,1
-,,,,,,,,,,,,,,
 2763,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Tue 16:27 UTC,Soyuz U | Cosmos 867,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,16,1
 2764,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Thu 10:45 UTC,Soyuz U | Cosmos 866,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,10,1
 2765,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",Wed 09:05 UTC,Feng Bao 1 | JSSW-6,StatusRetired,,Failure,China,100.2838215,40.964989,40.964989_100.2838214916303,Wed,9,1
@@ -2724,7 +2708,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2787,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Thu 11:00 UTC,Cosmos-2I (63SM) | Cosmos 850,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,11,1
 2788,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Wed 09:30 UTC,Cosmos-2I (63SM) | Cosmos 849,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,9,1
 2789,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Thu 13:30 UTC,Soyuz U | Cosmos 848,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,13,1
-,,,,,,,,,,,,,,
 2791,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Wed 13:40 UTC,Soyuz U | Cosmos 847,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,13,1
 2792,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Thu 20:02 UTC,Cosmos-3M (11K65M) | Cosmos 846,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,20,1
 2793,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Tue 12:00 UTC,Cosmos-3M (11K65M) | Intercosmos-16,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,12,1
@@ -2745,12 +2728,10 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2808,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Tue 07:20 UTC,Voskhod | Cosmos 835,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,7,1
 2809,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",Sat 03:00 UTC,Titan III(23)C | DSP-6,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,3,1
 2810,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Thu 07:10 UTC,Soyuz U | Cosmos 834,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,7,1
-,,,,,,,,,,,,,,
 2812,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Wed 13:09 UTC,Voskhod | Cosmos 833,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,13,1
 2813,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Tue 13:19 UTC,Cosmos-3M (11K65M) | Cosmos 825 to 832,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,13,1
 2814,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Tue 07:00 UTC,Voskhod | Cosmos 824,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,7,1
 2815,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Wed 22:30 UTC,Cosmos-3M (11K65M) | Cosmos 823,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,22,1
-,,,,,,,,,,,,,,
 2817,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Wed 09:00 UTC,Voskhod | Cosmos 821,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,9,1
 2818,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Fri 07:00 UTC,Soyuz U | Cosmos 820,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,7,1
 2819,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Thu 09:00 UTC,Voskhod | Cosmos 819,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,9,1
@@ -2796,7 +2777,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2859,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Tue 04:52 UTC,Cosmos-3M (11K65M) | Cosmos 787,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,4,1
 2860,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Sat 10:22 UTC,Molniya-M /Block ML | Molniya-3 n†­56,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,10,1
 2861,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Thu 19:00 UTC,Vostok-2M | Meteor n†­33,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,19,1
-,,,,,,,,,,,,,,
 2863,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Fri 14:00 UTC,Cosmos-3M (11K65M) | DS-P1 satellite,StatusRetired,,Failure,Russia,40.574814,62.927843,62.927843_40.574814,Fri,14,1
 2864,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Wed 11:06 UTC,Molniya-M /Block ML | Molniya-2 n†­55,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,11,1
 2865,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Tue 09:50 UTC,Voskhod | Cosmos 786,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,9,1
@@ -2944,7 +2924,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3007,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Wed 20:10 UTC,Soyuz | Soyuz 15,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,20,1
 3008,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Fri 03:41 UTC,Vostok-2M | Cosmos 673,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,3,1
 3009,US Air Force,"SLC-4W, Vandenberg AFB, California, USA",Wed 15:45 UTC,Titan III(24)B | OPS 3004,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,15,1
-,,,,,,,,,,,,,,
 3011,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Wed 12:49 UTC,Voskhod | Cosmos 671,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,12,1
 3012,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Tue 00:02 UTC,Soyuz U | Cosmos 670,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,0,1
 3013,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Fri 06:59 UTC,Voskhod | Cosmos 669,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,6,1
@@ -3007,7 +2986,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3070,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Thu 10:07 UTC,Cosmos-3M (11K65M) | Cosmos 628,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,10,1
 3071,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Sat 04:12 UTC,Cosmos-3M (11K65M) | Cosmos 627,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,4,1
 3072,RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan",Thu 20:19 UTC,Tsyklon-2 | Cosmos 626,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,20,1
-,,,,,,,,,,,,,,
 3074,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Tue 11:17 UTC,Molniya-M /Block L | Molniya-2 n†­39,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,11,1
 3075,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Fri 12:30 UTC,Voskhod | Cosmos 625,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,12,1
 3076,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Wed 09:43 UTC,Cosmos-3M (11K65M) | Cosmos 617 to 624,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,9,1
@@ -3063,8 +3041,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3126,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Wed 09:58 UTC,Molniya-M /Block L | Molniya-2 n†­34,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,9,1
 3127,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Wed 10:59 UTC,Voskhod | Zenit-4M n†­50,StatusRetired,,Failure,Russia,40.574814,62.927843,62.927843_40.574814,Wed,10,1
 3128,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Wed 11:50 UTC,Soyuz M | Cosmos 576,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,11,1
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
 3131,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Thu 13:29 UTC,Voskhod | Cosmos 575,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,13,1
 3132,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Wed 06:16 UTC,Cosmos-3M (11K65M) | Cosmos 574,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,6,1
 3133,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Fri 06:00 UTC,Soyuz | Cosmos 573,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,6,1
@@ -3100,7 +3076,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3163,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Tue 09:20 UTC,Voskhod | Cosmos 551,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,9,1
 3164,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Thu 12:40 UTC,Voskhod | Cosmos 550,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,12,1
 3165,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Wed 04:37 UTC,Cosmos-3M (11K65M) | Cosmos 549,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,4,1
-,,,,,,,,,,,,,,
 3167,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Thu 13:15 UTC,Voskhod | Cosmos 548,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,13,1
 3168,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Sat 05:48 UTC,Molniya-M /Block L | Molniya-1 n†­32,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,5,1
 3169,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Thu 08:30 UTC,Voskhod | Cosmos 547,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,8,1
@@ -3163,7 +3138,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3226,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Sun 07:20 UTC,Soyuz | Cosmos 496,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sun,7,1
 3227,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Fri 18:52 UTC,Vostok-2M | Meteor n†­23,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,18,1
 3228,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Fri 06:19 UTC,Cosmos-2I (63SM) | Cosmos 497,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,6,1
-,,,,,,,,,,,,,,
 3230,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Fri 11:19 UTC,Voskhod | Cosmos 495,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,11,1
 3231,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Fri 09:24 UTC,Cosmos-3M (11K65M) | Cosmos 494,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,9,1
 3232,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Wed 06:25 UTC,Voskhod | Cosmos 493,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,6,1
@@ -3179,9 +3153,7 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3242,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Fri 12:00 UTC,Cosmos-2I (63SM) | Cosmos 487,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,12,1
 3243,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Sun 17:54 UTC,Saturn V | Apollo 16,StatusRetired,"1,160.00",Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Sun,17,1
 3244,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Fri 18:00 UTC,Voskhod | Cosmos 486,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,18,1
-,,,,,,,,,,,,,,
 3246,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Tue 11:04 UTC,Cosmos-2I (63SM) | Cosmos 485,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,11,1
-,,,,,,,,,,,,,,
 3248,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Thu 08:00 UTC,Voskhod | Cosmos 484,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,8,1
 3249,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Tue 20:38 UTC,Molniya-M /Block L | Molniya-1 n†­26 & SRET-1,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,20,1
 3250,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Mon 10:15 UTC,Voskhod | Cosmos 483,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,10,1
@@ -3208,7 +3180,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3271,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",Thu 18:36 UTC,Titan IIID | KH-9 & SSF-B-22,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Thu,18,1
 3272,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Wed 09:59 UTC,Voskhod | Cosmos 471,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,9,1
 3273,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Wed 10:50 UTC,Vostok-2M | Meteor n†­21,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,10,1
-,,,,,,,,,,,,,,
 3275,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Mon 14:04 UTC,Soyuz M | Cosmos 470,StatusRetired,,Partial Failure,Russia,40.574814,62.927843,62.927843_40.574814,Mon,14,1
 3276,RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan",Sat 11:29 UTC,Tsyklon-2 | Cosmos 469,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,11,1
 3277,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",Mon 01:10 UTC,Atlas-SLV3C Centaur-D | Intelsat 4 F3,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,1,1
@@ -3223,7 +3194,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3286,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",Sat 22:33 UTC,Atlas-SLV3A Agena-D | AFP-827 (Canyon-4),StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,22,1
 3287,RVSN USSR,"Site 90/20, Baikonur Cosmodrome, Kazakhstan",Fri 13:19 UTC,Tsyklon-2 | Cosmos 462,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,13,1
 3288,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Fri 13:00 UTC,Voskhod | Zenit-2M n†­25,StatusRetired,,Failure,Russia,40.574814,62.927843,62.927843_40.574814,Fri,13,1
-,,,,,,,,,,,,,,
 3290,RVSN USSR,"Site 86/1, Kapustin Yar, Russia",Thu 08:25 UTC,Cosmos-2I (63SM) | Intercosmos-5,StatusRetired,,Success,Russia,45.766895,48.575634,48.575634_45.766895,Thu,8,1
 3291,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Tue 16:39 UTC,Cosmos-3M (11K65M) | Cosmos 460,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,16,1
 3292,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Mon 17:30 UTC,Cosmos-3M (11K65M) | Cosmos 459,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,17,1
@@ -3274,7 +3244,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3337,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Sat 05:30 UTC,Soyuz L | Cosmos 434 (T2K Lunar Lander),StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,5,1
 3338,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Fri 10:00 UTC,Voskhod | Cosmos 427,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,10,1
 3339,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Sun 04:55 UTC,Soyuz | Soyuz 11,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sun,4,1
-,,,,,,,,,,,,,,
 3341,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",Sun 22:23 UTC,Atlas-SLV3C Centaur-D | Mariner 9,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sun,22,1
 3342,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Sat 03:48 UTC,Cosmos-3M (11K65M) | Cosmos 425,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,3,1
 3343,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan",Fri 15:26 UTC,Proton K/Block D | Mars-3,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,15,1
@@ -3343,7 +3312,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3406,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Fri 15:47 UTC,Molniya-M /Block L | Molniya-1 n†­23,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,15,1
 3407,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Tue 10:59 UTC,Cosmos-2I (63SM) | Cosmos 380,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,10,1
 3408,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Tue 05:15 UTC,Soyuz L | Cosmos 379 (T2K Lunar Lander),StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,5,1
-,,,,,,,,,,,,,,
 3410,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Wed 09:20 UTC,Voskhod | Cosmos 377,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,9,1
 3411,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan",Tue 14:40 UTC,Proton K/Block D | Luna-17,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,14,1
 3412,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",Fri 10:35 UTC,Titan III(23)C | OPS-5960 (IMEWS-1/DSP-1),StatusRetired,,Partial Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,10,1
@@ -3443,7 +3411,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3506,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan",Fri 09:00 UTC,Proton K/Block D | Zond (L1E),StatusRetired,,Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,9,1
 3507,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Mon 16:49 UTC,Cosmos-3M (11K65M) | Cosmos 312,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,16,1
 3508,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Mon 11:04 UTC,Cosmos-2I (63SM) | Cosmos 311,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,11,1
-,,,,,,,,,,,,,,
 3510,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Sat 08:30 UTC,Voskhod | Cosmos 310,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,8,1
 3511,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Fri 16:22 UTC,Saturn V | Apollo 12,StatusRetired,"1,160.00",Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Fri,16,1
 3512,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Wed 11:30 UTC,Voskhod | Cosmos 309,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,11,1
@@ -3463,7 +3430,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3526,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Mon 01:45 UTC,Vostok-2M | Meteor n†­13,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,1,1
 3527,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Wed 12:15 UTC,Voskhod | Cosmos 301,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,12,1
 3528,RVSN USSR,"Site 81/24, Baikonur Cosmodrome, Kazakhstan",Tue 15:00 UTC,Proton K/Block D | Cosmos 300 (luna-16a),StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,15,1
-,,,,,,,,,,,,,,
 3530,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Thu 08:40 UTC,Voskhod | Cosmos 299,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,8,1
 3531,RVSN USSR,"Site 191/66, Baikonur Cosmodrome, Kazakhstan",Mon 16:00 UTC,Tsyklon | Cosmos 298,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Mon,16,1
 3532,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Tue 11:00 UTC,Voskhod | Cosmos 297,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,11,1
@@ -3592,7 +3558,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3655,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Wed 11:00 UTC,Voskhod | Cosmos 229,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,11,1
 3656,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Fri 12:00 UTC,Voskhod | Cosmos 228,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,12,1
 3657,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Tue 16:15 UTC,Voskhod | Cosmos 227,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,16,1
-,,,,,,,,,,,,,,
 3659,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",Thu 14:03 UTC,Titan IIIC | OPS 9341-9348,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,14,1
 3660,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Wed 13:14 UTC,Vostok-2M | Cosmos 226,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,13,1
 3661,RVSN USSR,"Site 86/1, Kapustin Yar, Russia",Tue 21:29 UTC,Cosmos-2I (63SM) | Cosmos 225,StatusRetired,,Success,Russia,45.766895,48.575634,48.575634_45.766895,Tue,21,1
@@ -3619,13 +3584,11 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3682,General Dynamics,"LC-576A2, Vandenberg AFB, California, USA",Sat 09:59 UTC,Atlas-E/F OV1 | OV1-13/OV1-14,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sat,9,1
 3683,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Thu 12:00 UTC,Saturn V | Apollo 6,StatusRetired,"1,160.00",Partial Failure,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Thu,12,1
 3684,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Wed 11:00 UTC,Voskhod | Cosmos 210,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,11,1
-,,,,,,,,,,,,,,
 3686,RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan",Fri 09:30 UTC,Tsyklon-2A | Cosmos 209,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,9,1
 3687,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Thu 09:50 UTC,Voskhod | Cosmos 208,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,9,1
 3688,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Sat 12:30 UTC,Voskhod | Cosmos 207,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,12,1
 3689,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Thu 09:34 UTC,Vostok-2M | Cosmos 206,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,9,1
 3690,US Air Force,"SLC-4W, Vandenberg AFB, California, USA",Wed 19:55 UTC,Titan IIIB | OPS 5057,StatusRetired,59,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,19,1
-,,,,,,,,,,,,,,
 3692,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Tue 12:30 UTC,Voskhod | Cosmos 205,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,12,1
 3693,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Tue 11:20 UTC,Cosmos-2I (63SM) | Cosmos 204,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,11,1
 3694,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",Mon 13:06 UTC,Atlas-SLV3A Agena-D | OGO-5,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,13,1
@@ -3645,7 +3608,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3708,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Sat 12:00 UTC,Voskhod | Cosmos 195,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,12,1
 3709,US Air Force,"SLC-4W, Vandenberg AFB, California, USA",Tue 18:45 UTC,Titan IIIB | OPS 5000,StatusRetired,59,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Tue,18,1
 3710,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Sun 12:00 UTC,Voskhod | Cosmos 194,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sun,12,1
-,,,,,,,,,,,,,,
 3712,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Sat 11:30 UTC,Voskhod | Cosmos 193,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,11,1
 3713,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Thu 15:00 UTC,Cosmos-3M (11K65M) | Cosmos 192,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,15,1
 3714,RVSN USSR,"Site 81/24, Baikonur Cosmodrome, Kazakhstan",Wed 19:07 UTC,Proton K/Block D | Zond,StatusRetired,,Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,19,1
@@ -3691,7 +3653,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3754,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",Fri 11:53 UTC,Atlas-LV3C Centaur-D | Surveyor 4,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,11,1
 3755,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Tue 05:59 UTC,Voskhod | Cosmos 168,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,5,1
 3756,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",Sat 13:15 UTC,"Titan IIIC | OPS 9331-9334, LES-5 & DODGE",StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,13,1
-,,,,,,,,,,,,,,
 3758,US Air Force,"SLC-4W, Vandenberg AFB, California, USA",Tue 16:19 UTC,Titan IIIB | OPS 4282,StatusRetired,59,Partial Failure,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Tue,16,1
 3759,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Tue 11:00 UTC,Voskhod | Zenit-4 n†­31,StatusRetired,,Failure,Russia,40.574814,62.927843,62.927843_40.574814,Tue,11,1
 3760,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Sat 02:36 UTC,Molniya-M /Block VL | Cosmos 167,StatusRetired,,Partial Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,2,1
@@ -3713,7 +3674,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3776,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",Thu 22:25 UTC,Atlas-SLV3 Agena-D | Lunar Orbiter 4,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,22,1
 3777,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",Fri 10:01 UTC,"Titan IIIC | OPS-6638, OPS-6679, ORS-4, OV5-1, OV5-3",StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,10,1
 3778,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Thu 12:50 UTC,Vostok-2M | Cosmos 156,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,12,1
-,,,,,,,,,,,,,,
 3780,ASI,"SM Launch Tab, San Marco Launch Platform, Kenya",Wed 10:06 UTC,Scout B | San Marco 2,StatusRetired,,Success,Kenya,40.194884,-2.995724,-2.995724_40.194884,Wed,10,1
 3781,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Sun 00:35 UTC,Soyuz | Soyuz 1,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sun,0,1
 3782,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",Mon 07:05 UTC,Atlas-LV3C Centaur-D | Surveyor 3,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,7,1
@@ -3721,7 +3681,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3784,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan",Sat 09:00 UTC,Proton K/Block D | Cosmos 154,StatusRetired,,Partial Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,9,1
 3785,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",Thu 03:23 UTC,Atlas-SLV3 Agena-D | ATS-2,StatusRetired,,Partial Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,3,1
 3786,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Tue 14:00 UTC,Vostok-2 | Cosmos 153,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,14,1
-,,,,,,,,,,,,,,
 3788,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Sat 06:59 UTC,Cosmos-2I (63SM) | Cosmos 152,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,6,1
 3789,RVSN USSR,"Site 41/15, Baikonur Cosmodrome, Kazakhstan",Fri 11:50 UTC,Cosmos-3 (11K65) | Cosmos 151,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,11,1
 3790,RVSN USSR,"Site 161/35, Baikonur Cosmodrome, Kazakhstan",Wed 14:05 UTC,Tsyklon | OGTch 3,StatusRetired,,Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,14,1
@@ -3747,7 +3706,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3810,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",Wed 14:19 UTC,Titan IIIC | OPS 9321-9328,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,14,1
 3811,RVSN USSR,"Site 86/1, Kapustin Yar, Russia",Wed 13:11 UTC,Cosmos-2I (63S1) | Cosmos 137,StatusRetired,,Success,Russia,45.766895,48.575634,48.575634_45.766895,Wed,13,1
 3812,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Wed 10:17 UTC,Molniya-M /Block L | Luna 13,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,10,1
-,,,,,,,,,,,,,,
 3814,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Mon 12:01 UTC,Vostok-2 | Cosmos 136,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,12,1
 3815,US Air Force,"SLC-4W, Vandenberg AFB, California, USA",Wed 18:14 UTC,Titan IIIB | OPS 8968,StatusRetired,59,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,18,1
 3816,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Wed 11:27 UTC,Soyuz | Soyuz 7K-OK n†­1,StatusRetired,,Prelaunch Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,11,1
@@ -3774,7 +3732,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3837,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",Wed 19:15 UTC,Atlas-SLV3 Agena-D | KH-7 Gambit 4033,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,19,1
 3838,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",Wed 22:00 UTC,Atlas-SLV3 Agena-D | Midas 12,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,22,1
 3839,US Air Force,"SLC-4W, Vandenberg AFB, California, USA",Wed 19:12 UTC,Titan IIIB | OPS 4096,StatusRetired,59,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,19,1
-,,,,,,,,,,,,,,
 3841,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",Tue 12:32 UTC,Atlas-LV3C Centaur-D | Surveyor 2,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,12,1
 3842,RVSN USSR,"Site 162, Baikonur Cosmodrome, Kazakhstan",Sat 22:35 UTC,Tsyklon | OGTch 1,StatusRetired,,Partial Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,22,1
 3843,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",Fri 17:59 UTC,Atlas-SLV3 Agena-D | KH-7 Gambit 4032,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,17,1
@@ -3835,7 +3792,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3898,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Tue 11:03 UTC,Molniya-M /Block L | Cosmos 111,StatusRetired,,Partial Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,11,1
 3899,NASA,"LC-34, Cape Canaveral AFS, Florida, USA",Sat 16:12 UTC,Saturn IB | AS-201,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,16,1
 3900,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Tue 20:09 UTC,Voskhod | Cosmos 110,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,20,1
-,,,,,,,,,,,,,,
 3902,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Sat 08:49 UTC,Voskhod | Cosmos 109,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,8,1
 3903,Arm??e de l'Air,"Brigitte, Hammaguir, Algeria, France",Thu 07:33 UTC,Diamant A | Diapason,StatusRetired,,Success,France,-3.033333,30.9,30.9_-3.033333,Thu,7,1
 3904,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",Tue 13:04 UTC,Atlas-SLV3 Agena-D | KH-7 Gambit 4025,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Tue,13,1
@@ -3846,7 +3802,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 3909,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Sat 08:30 UTC,Vostok-2 | Cosmos 105,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,8,1
 3910,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",Wed 20:10 UTC,Atlas-SLV3 Agena-D | KH-7 Gambit 4024,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,20,1
 3911,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Fri 08:20 UTC,Vostok-2 | Cosmos 104,StatusRetired,,Partial Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,8,1
-,,,,,,,,,,,,,,
 3913,RVSN USSR,"Site 41/15, Baikonur Cosmodrome, Kazakhstan",Tue 12:30 UTC,Cosmos-1 (65S3) | Cosmos 103,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,12,1
 3914,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Mon 22:24 UTC,Vostok-2A | Cosmos 102,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Mon,22,1
 3915,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA",Tue 14:00 UTC,"Titan IIIC | LES 3 & 4, OV2-3, OSCAR-4",StatusRetired,,Partial Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,14,1
@@ -3937,17 +3892,14 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 4000,US Air Force,"SLC-20, Cape Canaveral AFS, Florida, USA",Thu 16:52 UTC,Titan IIIA | Transtage 2,StatusRetired,63.23,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,16,1
 4001,RVSN USSR,"Site 86/1, Kapustin Yar, Russia",Wed 23:02 UTC,Cosmos-2I (63S1) | Cosmos 51,StatusRetired,,Success,Russia,45.766895,48.575634,48.575634_45.766895,Wed,23,1
 4002,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",Fri 18:57 UTC,Atlas-SLV3 Agena-D | KH-7 Gambit 4014,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,18,1
-,,,,,,,,,,,,,,
 4004,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Mon 13:12 UTC,Molniya | Zond 2,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Mon,13,1
 4005,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",Sat 14:22 UTC,Atlas-LV3 Agena-D | Mariner 4,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,14,1
 4006,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",Thu 19:22 UTC,Atlas-LV3 Agena-D | Mariner 3,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,19,1
 4007,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Wed 10:40 UTC,Vostok-2 | Cosmos 50,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,10,1
 4008,RVSN USSR,"Mayak-2, Kapustin Yar, Russia",Sat 05:16 UTC,Cosmos-2I (63S1) | Cosmos 49,StatusRetired,,Success,Russia,45.766895,48.575634,48.575634_45.766895,Sat,5,1
-,,,,,,,,,,,,,,
 4010,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",Fri 18:30 UTC,Atlas-LV3 Agena-D | KH-7 Gambit 4013,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,18,1
 4011,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Wed 10:00 UTC,Vostok-2 | Cosmos 48,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,10,1
 4012,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Mon 07:30 UTC,Voskhod | Voskhod 1,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Mon,7,1
-,,,,,,,,,,,,,,
 4014,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Tue 07:00 UTC,Voskhod | Cosmos 47,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,7,1
 4015,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Thu 12:04 UTC,Vostok-2 | Cosmos 46,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,12,1
 4016,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA",Wed 13:10 UTC,Atlas-SLV3 Agena-D | KH-7 Gambit 4011,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,13,1
@@ -3965,7 +3917,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 4028,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA",Tue 16:50 UTC,Atlas-LV3 Agena-B | Ranger 7,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,16,1
 4029,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA",Fri 02:37 UTC,Atlas-LV3 Agena-D | Vela 2A/2B,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,2,1
 4030,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Wed 11:27 UTC,Vostok-2 | Cosmos 35,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,11,1
-,,,,,,,,,,,,,,
 4032,General Dynamics,"SLC-4W, Vandenberg AFB, California, USA",Mon 18:51 UTC,Atlas-LV3 Agena-D | KH-7 Gambit 4009,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Mon,18,1
 4033,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Wed 11:00 UTC,Voskhod | Cosmos 34,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,11,1
 4034,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",Tue 14:04 UTC,Atlas-LV3C Centaur-C | AC-3 (Test Vehicle),StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,14,1
@@ -4017,14 +3968,11 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 4080,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Sun 09:29 UTC,Vostok | Vostok 6,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sun,9,1
 4081,US Air Force,"SLC-5, Vandenberg AFB, California, USA",Sun 01:49 UTC,Scout X-3 | Transit-5A 3,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sun,1,1
 4082,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Fri 11:58 UTC,Vostok | Vostok 5,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,11,1
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
 4085,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Fri 10:34 UTC,Vostok-2 | Cosmos 18,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,10,1
 4086,RVSN USSR,"Mayak-2, Kapustin Yar, Russia",Wed 03:00 UTC,Cosmos-2I (63S1) | Cosmos 17,StatusRetired,,Success,Russia,45.766895,48.575634,48.575634_45.766895,Wed,3,1
 4087,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",Wed 13:04 UTC,Atlas-D Mercury | Faith 7 (MA-9),StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,13,1
 4088,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",Thu 20:06 UTC,Atlas-LV3 Agena-B | Midas 7,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Thu,20,1
 4089,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Sun 08:49 UTC,Vostok-2 | Cosmos 16,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sun,8,1
-,,,,,,,,,,,,,,
 4091,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Mon 08:30 UTC,Vostok-2 | Cosmos 15,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Mon,8,1
 4092,RVSN USSR,"Mayak-2, Kapustin Yar, Russia",Sat 11:00 UTC,Cosmos-2I (63S1) | Cosmos 14,StatusRetired,,Success,Russia,45.766895,48.575634,48.575634_45.766895,Sat,11,1
 4093,RVSN USSR,"Mayak-2, Kapustin Yar, Russia",Sat 03:01 UTC,Cosmos-2I (63S1) | DS-P1 #2,StatusRetired,,Failure,Russia,45.766895,48.575634,48.575634_45.766895,Sat,3,1
@@ -4092,7 +4040,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 4155,US Air Force,"SLC-2E (75-1-1), Vandenberg AFB, California, USA",Wed 01:00 UTC,Thor DM-21 Agena-B | FTV 1128,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,1,1
 4156,RVSN USSR,"Mayak-2, Kapustin Yar, Russia",Mon 03:00 UTC,Cosmos-2I (63S1) | Cosmos 5,StatusRetired,,Success,Russia,45.766895,48.575634,48.575634_45.766895,Mon,3,1
 4157,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",Thu 12:45 UTC,Atlas-D Mercury | Aurora 7 (MA-7),StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,12,1
-,,,,,,,,,,,,,,
 4159,US Air Force,"SLC-1E (75-3-5), Vandenberg AFB, California, USA",Tue 19:36 UTC,Thor DM-21 Agena-B | FTV 1126,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Tue,19,1
 4160,US Air Force,"SLC-17B, Cape Canaveral AFS, Florida, USA",Thu 12:06 UTC,Thor-DM21 Ablestar | ANNA 1A,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,12,1
 4161,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",Tue 19:49 UTC,Atlas-LV3C Centaur-A | AC-1 (Test Vehicle),StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,19,1
@@ -4198,7 +4145,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 4261,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA",Tue 17:36 UTC,Atlas-LV3 Agena-A | Midas 2,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,17,1
 4262,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Sun 00:00 UTC,Vostok | Korabl-Sputnik 1,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sun,0,1
 4263,US Air Force,"SLC-17A, Cape Canaveral AFS, Florida, USA",Fri 09:16 UTC,Thor DM-19 Delta | Echo 1,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,9,1
-,,,,,,,,,,,,,,
 4265,US Air Force,"SLC-1E (75-3-5), Vandenberg AFB, California, USA",Fri 20:30 UTC,Thor-DM18 Agena-A | Discoverer 11,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,20,1
 4266,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Fri 15:06 UTC,Vostok | E-3 n†­2 (Luna-3),StatusRetired,,Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,15,1
 4267,US Air Force,"SLC-17B, Cape Canaveral AFS, Florida, USA",Wed 12:02 UTC,Thor-DM21 Ablestar | Transit 1B,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,12,1
@@ -4236,15 +4182,9 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 4299,NASA,"SLC-17A, Cape Canaveral AFS, Florida, USA",Sat 08:42 UTC,Thor-DM 18 Able I | Pioneer 1,StatusRetired,,Partial Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,8,1
 4300,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA",Fri 15:38 UTC,Vanguard | Vanguard SLV-3,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,15,1
 4301,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Tue 07:40 UTC,Vostok | E-1 n†­1 (Luna-1),StatusRetired,,Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,7,1
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
 4305,AMBA,"LC-5, Cape Canaveral AFS, Florida, USA",Sun 06:17 UTC,Juno I | Explorer 5,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sun,6,1
-,,,,,,,,,,,,,,
 4307,US Air Force,"SLC-17A, Cape Canaveral AFS, Florida, USA",Sun 12:18 UTC,Thor-DM 18 Able I | Pioneer 0,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sun,12,1
-,,,,,,,,,,,,,,
 4309,AMBA,"LC-5, Cape Canaveral AFS, Florida, USA",Sat 15:00 UTC,Juno I | Explorer 4,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,15,1
-,,,,,,,,,,,,,,
 4311,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA",Thu 05:00 UTC,Vanguard | Vanguard SLV-2,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,5,1
 4312,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA",Wed 03:46 UTC,Vanguard | Vanguard SLV-1,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,3,1
 4313,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Thu 07:12 UTC,Sputnik 8A91 | Sputnik-3 #2,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,7,1

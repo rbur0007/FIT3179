@@ -105,7 +105,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 103,CASC,"LC-9, Taiyuan Satellite Launch Center, China",Thu 03:26 UTC,"Long March 4B | Ziyuan-2D, BNU-1 & Taurus-1",StatusActive,64.68,Success,China,111.6053224,38.84978335,38.84978335_111.60532243338425,Thu,3,1
 104,ExPace,"Site 95, Jiuquan Satellite Launch Center, China",Fri 23:41 UTC,Kuaizhou 1A | KX-09 & Others,StatusActive,,Success,China,100.2838215,40.964989,40.964989_100.2838214916303,Fri,23,1
 105,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia",Fri 14:00 UTC,Rokot/Briz KM | Cosmos 2540,StatusRetired,41.8,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,14,1
-106,ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Thu Aug 29, 2019",Safir-1B+ | Nahid-1,StatusActive,,Prelaunch Failure,Iran,53.89705678,35.22153355,35.221533550000004_53.897056783100155,Thu,Au,1
 107,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",Thu 13:06 UTC,"Delta IV Medium+ (4,2) | GPS III SV02",StatusRetired,164,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,13,1
 108,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Thu 03:38 UTC,Soyuz 2.1a | Soyuz MS-14 (60S),StatusActive,48.5,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,3,1
 109,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand",Mon 12:12 UTC,"Electron/Curie | Look Ma, No Hands!",StatusActive,7.5,Success,New Zealand,177.864944,-39.261508,-39.261508_177.864944,Mon,12,1
@@ -162,7 +161,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 160,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",Fri 01:45 UTC,Falcon 9 Block 5 | Nusantara Satu & Beresheet,StatusActive,50,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,1,1
 161,VKS RF,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Thu 16:47 UTC,Soyuz 2.1b/Fregat-M | EgyptSat-A,StatusActive,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,16,1
 162,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Tue 21:01 UTC,Ariane 5 ECA | GSAT-31 & Hellas-Sat-4,StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Tue,21,1
-,,,,,,,,,,,,,,
 164,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",Thu 18:07 UTC,PSLV-DL | Microsat-R,StatusActive,,Success,India,80.16460302,13.72376835,13.72376835_80.16460301880002,Thu,18,1
 165,Blue Origin,"Blue Origin Launch Site, West Texas, Texas, USA",Wed 15:05 UTC,New Shepard | NS-10,StatusActive,,Success,United States of America,-98.1626132,26.172826,26.172826_-98.1626132,Wed,15,1
 166,CASC,"Site 95, Jiuquan Satellite Launch Center, China",Mon 05:42 UTC,Long March 11 | Jilin-1 Hyperspectral & Others,StatusActive,5.3,Success,China,100.2838215,40.964989,40.964989_100.2838214916303,Mon,5,1
@@ -294,7 +292,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 292,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",Sat 01:27 UTC,Falcon 9 Block 3 | Iridium-4,StatusRetired,62,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sat,1,1
 293,MHI,"LA-Y1, Tanegashima Space Center, Japan",Sat 01:26 UTC,H-IIA 202 | GCOM-C & SLATS,StatusActive,90,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Sat,1,1
 294,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Sun 07:21 UTC,Soyuz FG | Soyuz MS-07 (53S),StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sun,7,1
-,,,,,,,,,,,,,,
 296,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",Fri 15:36 UTC,Falcon 9 Block 3 | CRS-13,StatusRetired,62,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,15,1
 297,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Tue 18:36 UTC,Ariane 5 ES | Galileo FOC FM15-FM18,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Tue,18,1
 298,CASC,"LC-2, Xichang Satellite Launch Center, China",Sun 16:41 UTC,Long March 3B/E | Alcomsat-1,StatusActive,29.15,Success,China,102.027938,28.24576155,28.24576155_102.02793799844264,Sun,16,1
@@ -334,7 +331,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 332,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Sat 21:17 UTC,Soyuz FG | Soyuz MS-06 (52S),StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,21,1
 333,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",Wed 01:58 UTC,Vega | OPSAT 3000 & VEN†æS,StatusActive,37,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,1,1
 334,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Fri 15:41 UTC,Soyuz FG | Soyuz MS-05 (51S),StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,15,1
-,,,,,,,,,,,,,,
 336,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Fri 06:36 UTC,Soyuz 2.1a/Fregat | Kanopus-V IK & Rideshares,StatusActive,48.5,Partial Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,6,1
 337,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",Wed 20:25 UTC,Falcon 9 Block 3 | Intelsat 35e,StatusRetired,62,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Wed,20,1
 338,CASC,"LC-101, Wenchang Satellite Launch Center, China",Sun 11:23 UTC,Long March 5 | Shijian-18,StatusActive,,Failure,China,34.680158,31.884586,31.884586_34.680158,Sun,11,1
@@ -446,7 +442,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 444,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",Mon 21:02 UTC,"Soyuz ST-A/Fregat-M | Sentinel 1B, MICROSCOPE & Others",StatusActive,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Mon,21,1
 445,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",Fri 20:43 UTC,Falcon 9 Block 3 | CRS-8,StatusRetired,62,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,20,1
 446,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",Tue 17:38 UTC,Long March 2D | Shijian-10,StatusActive,29.75,Success,China,100.2838215,40.964989,40.964989_100.2838214916303,Tue,17,1
-,,,,,,,,,,,,,,
 448,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan",Thu 16:23 UTC,Soyuz 2.1a | Progress MS-02,StatusActive,48.5,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,16,1
 449,CASC,"LC-2, Xichang Satellite Launch Center, China",Tue 20:11 UTC,Long March 3A | BeiDou IGSO-6,StatusActive,69.7,Success,China,102.027938,28.24576155,28.24576155_102.02793799844264,Tue,20,1
 450,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia",Thu 09:42 UTC,Soyuz 2.1a | Bars-M 2L,StatusActive,48.5,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,9,1
@@ -466,7 +461,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 464,CASC,"LC-2, Xichang Satellite Launch Center, China",Mon 07:29 UTC,Long March 3C/YZ-1 | BeiDou M3-S,StatusActive,,Success,China,102.027938,28.24576155,28.24576155_102.02793799844264,Mon,7,1
 465,ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan",Fri 22:20 UTC,Proton-M/Briz-M | Eutelsat 9B,StatusActive,65,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,22,1
 466,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Wed 23:20 UTC,Ariane 5 ECA | Intelsat 29e,StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,23,1
-,,,,,,,,,,,,,,
 468,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",Wed 04:01 UTC,PSLV-XL | IRNSS-1E,StatusActive,31,Success,India,80.16460302,13.72376835,13.72376835_80.16460301880002,Wed,4,1
 469,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",Sun 18:42 UTC,Falcon 9 v1.1 | Jason-3,StatusRetired,56.5,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sun,18,1
 470,CASC,"LC-3, Xichang Satellite Launch Center, China",Fri 16:57 UTC,Long March 3B/E | Belintersat 1,StatusActive,29.15,Success,China,102.027938,28.24576155,28.24576155_102.02793799844264,Fri,16,1
@@ -478,15 +472,12 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 476,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia",Sat 14:08 UTC,Soyuz 2.1v/Volga | Cosmos 2511 and 2512,StatusActive,,Partial Failure,Russia,40.574814,62.927843,62.927843_40.574814,Sat,14,1
 477,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",Thu 04:04 UTC,Vega | LISA Pathfinder,StatusActive,37,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Thu,4,1
 478,MHI,"LA-Y1, Tanegashima Space Center, Japan",Tue 06:50 UTC,H-IIA 204 | Telstar 12 Vantage,StatusActive,,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Tue,6,1
-,,,,,,,,,,,,,,
 480,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Tue 21:34 UTC,"Ariane 5 ECA | Arabsat 6B, GSAT-15",StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Tue,21,1
-,,,,,,,,,,,,,,
 482,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",Sat 16:13 UTC,Atlas V 401 | GPS IIF-11,StatusActive,109,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,16,1
 483,ULA,"SLC-3E, Vandenberg AFB, California, USA",Thu 12:49 UTC,Atlas V 401 | NROL-55,StatusActive,109,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Thu,12,1
 484,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",Fri 10:28 UTC,Atlas V 421 | Morelos-3,StatusActive,123,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,10,1
 485,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Wed 20:30 UTC,"Ariane 5 ECA | NBN Co 1A, ARSAT-2",StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,20,1
 486,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",Mon 04:30 UTC,PSLV-XL | Astrosat & Rideshares,StatusActive,31,Success,India,80.16460302,13.72376835,13.72376835_80.16460301880002,Mon,4,1
-,,,,,,,,,,,,,,
 488,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia",Wed 21:59 UTC,Rokot/Briz KM | Cosmos 2507 to 2509,StatusRetired,41.8,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,21,1
 489,CASC,"LC-16, Taiyuan Satellite Launch Center, China",Sat 23:01 UTC,Long March 6 | Demo Flight,StatusActive,,Success,China,111.6053224,38.84978335,38.84978335_111.60532243338425,Sat,23,1
 490,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",Fri 02:08 UTC,Soyuz ST-B/Fregat-MT | Galileo FOC FM05-FM06,StatusActive,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Fri,2,1
@@ -502,7 +493,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 500,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",Tue 01:51 UTC,Vega | Sentinel-2A,StatusActive,37,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Tue,1,1
 501,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Wed 21:16 UTC,"Ariane 5 ECA | DirecTV-15, Sky Mexico 1",StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,21,1
 502,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",Wed 15:05 UTC,Atlas V 501 | OTV-4,StatusActive,120,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,15,1
-,,,,,,,,,,,,,,
 504,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",Mon 23:03 UTC,Falcon 9 v1.1 | Turkmen??lem52E/MonacoSat,StatusRetired,56.5,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,23,1
 505,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Sun 20:00 UTC,"Ariane 5 ECA | Thor 7, SICRAL-2",StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Sun,20,1
 506,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",Wed 20:10 UTC,Falcon 9 v1.1 | CRS-6,StatusRetired,56.5,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,20,1
@@ -514,10 +504,8 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 512,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",Wed 18:36 UTC,"Delta IV Medium+ (4,2) | GPS IIF-9",StatusRetired,164,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,18,1
 513,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",Fri 02:44 UTC,Atlas V 421 | MMS,StatusActive,123,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,2,1
 514,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",Mon 03:50 UTC,Falcon 9 v1.1 | ABS-3A & EUTELSAT 115 West B,StatusRetired,56.5,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,3,1
-,,,,,,,,,,,,,,
 516,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",Wed 23:03 UTC,Falcon 9 v1.1 | DSCOVR,StatusRetired,56.5,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,23,1
 517,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",Wed 13:40 UTC,Vega | IXV,StatusActive,37,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,13,1
-,,,,,,,,,,,,,,
 519,MHI,"LA-Y1, Tanegashima Space Center, Japan",Sun 01:21 UTC,H-IIA 202 | IGS-Radar 5,StatusActive,90,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Sun,1,1
 520,ULA,"SLC-2W, Vandenberg AFB, California, USA",Sat 14:22 UTC,Delta II 7320-10C | SMAP / ELaNa X,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sat,14,1
 521,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",Wed 01:04 UTC,Atlas V 551 | MUOS-3,StatusActive,153,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,1,1
@@ -563,7 +551,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 561,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",Wed 01:35 UTC,Vega | KazEOSat-1,StatusActive,37,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,1,1
 562,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",Fri 19:25 UTC,Falcon 9 v1.1 | CRS-3,StatusRetired,56.5,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,19,1
 563,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",Thu 17:45 UTC,Atlas V 541 | NROL-67,StatusActive,145,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,17,1
-,,,,,,,,,,,,,,
 565,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",Fri 11:44 UTC,PSLV-XL | IRNSS-1B,StatusActive,31,Success,India,80.16460302,13.72376835,13.72376835_80.16460301880002,Fri,11,1
 566,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",Thu 21:02 UTC,Soyuz ST-A/Fregat-M | Sentinel 1A,StatusActive,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Thu,21,1
 567,ULA,"SLC-3E, Vandenberg AFB, California, USA",Thu 14:46 UTC,Atlas V 401 | DMSP-5D3 F19,StatusActive,109,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Thu,14,1
@@ -631,7 +618,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 629,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",Mon 00:35 UTC,Falcon 9 v1.0 | CRS-1,StatusRetired,59.5,Partial Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,0,1
 630,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",Thu 12:10 UTC,"Delta IV Medium+ (4,2) | GPS IIF-3",StatusRetired,164,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,12,1
 631,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Fri 21:18 UTC,"Ariane 5 ECA | Astra 2F, GSAT-10",StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Fri,21,1
-,,,,,,,,,,,,,,
 633,ULA,"SLC-3E, Vandenberg AFB, California, USA",Thu 21:39 UTC,Atlas V 401 | NROL-36,StatusActive,109,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Thu,21,1
 634,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",Sun 04:23 UTC,PSLV-CA | SPOT-6 & mRESINS & PROITERES,StatusActive,21,Success,India,80.16460302,13.72376835,13.72376835_80.16460301880002,Sun,4,1
 635,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",Thu 08:05 UTC,Atlas V 401 | Van Allen Probes (RBSP),StatusActive,109,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,8,1
@@ -645,19 +631,16 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 643,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",Sat 10:37 UTC,Long March 2F/G | Shenzhou 9,StatusActive,,Success,China,100.2838215,40.964989,40.964989_100.2838214916303,Sat,10,1
 644,Northrop,"Stargazer, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",Wed 16:00 UTC,Pegasus XL | NuSTAR,StatusActive,40,Success,United States of America,170.9985095,6.9518742,6.9518742_170.9985095,Wed,16,1
 645,Sea Launch,"LP Odyssey, Kiritimati Launch Area, Pacific Ocean",Fri 05:22 UTC,Zenit-3 SL | Intelsat-19,StatusActive,,Success,Kiribati,None,None,None_None,Fri,5,1
-,,,,,,,,,,,,,,
 647,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",Tue 07:44 UTC,Falcon 9 v1.0 | COTS-2+,StatusRetired,59.5,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,7,1
 648,MHI,"LA-Y1, Tanegashima Space Center, Japan",Thu 16:39 UTC,"H-IIA 202 | Shizuku, KOMPSAT 3 & Others",StatusActive,90,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Thu,16,1
 649,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Tue 22:13 UTC,"Ariane 5 ECA | JCSAT-13, Vinasat-2",StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Tue,22,1
 650,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",Fri 18:42 UTC,Atlas V 531 | AEHF-2,StatusActive,140,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,18,1
 651,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",Thu 00:17 UTC,PSLV-XL | RISAT-1,StatusActive,31,Success,India,80.16460302,13.72376835,13.72376835_80.16460301880002,Thu,0,1
-,,,,,,,,,,,,,,
 653,KCST,"Pad 1, Sohae Satellite Launching Station, North Korea",Thu 22:38 UTC,Unha-3 | Kwangmyngsng-3,StatusActive,,Failure,North Korea,124.6979243,39.6663877,39.6663877_124.69792434062654,Thu,22,1
 654,ULA,"SLC-6, Vandenberg AFB, California, USA",Tue 23:12 UTC,"Delta IV Medium+ (5,2) | NROL-25",StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Tue,23,1
 655,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Fri 04:34 UTC,Ariane 5 ES | Edoardo Amaldi ATV,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Fri,4,1
 656,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",Fri 22:15 UTC,Atlas V 551 | MUOS-1,StatusActive,153,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,22,1
 657,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",Mon 10:00 UTC,"Vega | Lares, AlmaSat-1 & 7 cubesats",StatusActive,37,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Mon,10,1
-,,,,,,,,,,,,,,
 659,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",Fri 00:38 UTC,"Delta IV Medium+ (5,4) | WGS-4",StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,0,1
 660,Arianespace,"ELS, Guiana Space Centre, French Guiana, France",Sat 02:03 UTC,"Soyuz ST-A/Fregat | Pl??iades 1A, SSOT, Elisa",StatusActive,80,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Sat,2,1
 661,MHI,"LA-Y1, Tanegashima Space Center, Japan",Mon 01:21 UTC,H-IIA 202 | IGS-Radar 3,StatusActive,90,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Mon,1,1
@@ -683,7 +666,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 681,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India",Fri 11:18 UTC,PSLV-XL | GSAT-12,StatusActive,31,Success,India,80.16460302,13.72376835,13.72376835_80.16460301880002,Fri,11,1
 682,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Fri 15:29 UTC,Space Shuttle Atlantis | STS-135,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Fri,15,1
 683,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA",Thu 03:09 UTC,Minotaur I | ORS-1,StatusActive,40,Success,United States of America,-75.49639969,37.8556147,37.855614700000004_-75.49639969025829,Thu,3,1
-,,,,,,,,,,,,,,
 685,ULA,"SLC-2W, Vandenberg AFB, California, USA",Fri 14:20 UTC,Delta II 7320-10C | SAC-D,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,14,1
 686,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Fri 20:38 UTC,"Ariane 5 ECA | ST-2, GSAT-8",StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Fri,20,1
 687,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Mon 12:56 UTC,Space Shuttle Endeavour | STS-134,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Mon,12,1
@@ -717,7 +699,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 715,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Wed 20:45 UTC,"Ariane 5 ECA | Nilesat-201, Rascom-QAF 1R",StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,20,1
 716,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",Mon 03:52 UTC,PSLV-CA | Cartosat-2B & Rideshares,StatusActive,21,Success,India,80.16460302,13.72376835,13.72376835_80.16460301880002,Mon,3,1
 717,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Sat 21:41 UTC,"Ariane 5 ECA | Arabsat-5A, COMS-1",StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Sat,21,1
-,,,,,,,,,,,,,,
 719,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan",Mon 02:14 UTC,Dnepr | TanDEM-X,StatusRetired,29,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Mon,2,1
 720,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia",Tue 14:42 UTC,Dnepr | Picard & Others,StatusRetired,29,Success,Russia,54.7276647,52.0269262,52.0269262_54.7276647,Tue,14,1
 721,KARI,"LC-1, Naro Space Center, South Korea",Thu 08:01 UTC,Naro-1 | STSAT-2B,StatusRetired,,Failure,South Korea,127.5255002,34.43813115,34.438131150000004_127.52550018104824,Thu,8,1
@@ -784,7 +765,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 782,Northrop,"SLC-576E, Vandenberg AFB, California, USA",Tue 09:55 UTC,Minotaur C (Taurus) | Orbiting Carbon Observatory,StatusActive,45,Failure,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Tue,9,1
 783,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Thu 22:09 UTC,"Ariane 5 ECA | Hot Bird 10, NSS-9, Spirale-A & B",StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Thu,22,1
 784,ULA,"SLC-2W, Vandenberg AFB, California, USA",Fri 10:22 UTC,Delta II 7320-10C | NOAA-N Prime,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,10,1
-,,,,,,,,,,,,,,
 786,VKS RF,"Site 32/2, Plesetsk Cosmodrome, Russia",Fri 13:30 UTC,Tsyklon-3 | Koronas Foton,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,13,1
 787,MHI,"LA-Y1, Tanegashima Space Center, Japan",Fri 03:54 UTC,"H-IIA 202 | Ibuki, Maido 1 & Others",StatusActive,90,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Fri,3,1
 788,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",Sun 02:47 UTC,Delta IV Heavy | NROL-26,StatusActive,350,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sun,2,1
@@ -805,7 +785,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 803,ULA,"SLC-2W, Vandenberg AFB, California, USA",Sat 18:50 UTC,Delta II 7420-10C | GeoEye-1,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sat,18,1
 804,CASC,"LC-7, Taiyuan Satellite Launch Center, China",Sat 03:25 UTC,Long March 2C/SMA | Huanjing-1A & 1B,StatusActive,,Success,China,111.6053224,38.84978335,38.84978335_111.60532243338425,Sat,3,1
 805,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan",Fri 07:15 UTC,Dnepr | RapidEye 1 to 5,StatusRetired,29,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,7,1
-,,,,,,,,,,,,,,
 807,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Thu 20:44 UTC,Ariane 5 ECA | Superbird-7 & AMC-21,StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Thu,20,1
 808,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",Sun 03:34 UTC,Falcon 1 | Flight 3,StatusRetired,7,Failure,United States of America,170.9985095,6.9518742,6.9518742_170.9985095,Sun,3,1
 809,VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia",Tue 02:40 UTC,Cosmos-3M (11K65M) | SAR-Lupe 5,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,2,1
@@ -865,7 +844,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 863,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia",Thu 15:02 UTC,Dnepr | Genesis 2,StatusRetired,29,Success,Russia,54.7276647,52.0269262,52.0269262_54.7276647,Thu,15,1
 864,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",Fri 15:11 UTC,Atlas V 401 | NROL-30 & NOSS-3,StatusActive,109,Partial Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,15,1
 865,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan",Fri 02:14 UTC,Dnepr | TerraSAR-X,StatusRetired,29,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,2,1
-,,,,,,,,,,,,,,
 867,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Fri 23:38 UTC,Space Shuttle Atlantis | STS-117,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Fri,23,1
 868,ULA,"SLC-2W, Vandenberg AFB, California, USA",Fri 02:34 UTC,Delta II 7420-10C | COSMO-SkyMed,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,2,1
 869,CASC,"LC-2, Xichang Satellite Launch Center, China",Thu 16:08 UTC,Long March 3A | SinoSat 3,StatusActive,69.7,Success,China,102.027938,28.24576155,28.24576155_102.02793799844264,Thu,16,1
@@ -986,7 +964,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 984,VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia",Thu 15:07 UTC,Cosmos-3M (11K65M) | Cosmos 2408 and 2409,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,15,1
 985,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",Mon 10:31 UTC,GSLV Mk I | GSAT-3,StatusRetired,47,Success,India,80.16460302,13.72376835,13.72376835_80.16460301880002,Mon,10,1
 986,CASC,"LC-7, Taiyuan Satellite Launch Center, China",Wed 23:14 UTC,Long March 4B | Shijian-6A & 6B,StatusActive,64.68,Success,China,111.6053224,38.84978335,38.84978335_111.60532243338425,Wed,23,1
-,,,,,,,,,,,,,,
 988,Lockheed,"SLC-36A, Cape Canaveral AFS, Florida, USA",Tue 23:17 UTC,Atlas IIAS | NROL-1,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,23,1
 989,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",Sun 07:50 UTC,Long March 2C | FSW-4 No.1,StatusActive,30.8,Success,China,100.2838215,40.964989,40.964989_100.2838214916303,Sun,7,1
 990,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA",Tue 06:15 UTC,Delta II 7925H | MESSENGER,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,6,1
@@ -1028,14 +1005,11 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1026,Sea Launch,"LP Odyssey, Kiritimati Launch Area, Pacific Ocean",Wed 04:02 UTC,Zenit-3 SL | Galaxy-13,StatusActive,,Success,Kiribati,None,None,None_None,Wed,4,1
 1027,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Sat 23:14 UTC,"Ariane 5 G | Insat 3E, eBird-1, SMART-1",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Sat,23,1
 1028,VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia",Sat 06:11 UTC,Cosmos-3M (11K65M) | STSAT 1 & Others,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,6,1
-,,,,,,,,,,,,,,
 1030,Lockheed,"SLC-40, Cape Canaveral AFS, Florida, USA",Tue 04:29 UTC,Titan IV(401)B | NROL-19 (Mentor),StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,4,1
 1031,Boeing,"SLC-37B, Cape Canaveral AFS, Florida, USA",Fri 23:13 UTC,Delta IV Medium | DSCS-3 B6,StatusRetired,133,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,23,1
-,,,,,,,,,,,,,,
 1033,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA",Mon 05:35 UTC,Delta II 7920H | Spitzer Space Telescope,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,5,1
 1034,VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia",Tue 10:50 UTC,Cosmos-3M (11K65M) | Cosmos 2400 and 2401,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,10,1
 1035,Northrop,"Stargazer, Vandenberg AFB, California, USA",Wed 02:09 UTC,Pegasus XL | SCISAT-1,StatusActive,40,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,2,1
-,,,,,,,,,,,,,,
 1037,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA",Thu 23:45 UTC,Atlas V 521 | Rainbow 1,StatusActive,135,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,23,1
 1038,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA",Tue 03:18 UTC,Delta II 7925H | Opportunity,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,3,1
 1039,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia",Mon 14:15 UTC,Rokot/Briz KM | Monitor-E GVM & Others,StatusRetired,41.8,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,14,1
@@ -1066,7 +1040,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1064,Lockheed,"SLC-4W, Vandenberg AFB, California, USA",Mon 14:19 UTC,Titan II(23)G | Coriolis,StatusRetired,35,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Mon,14,1
 1065,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",Sun 16:40 UTC,Long March 2F | Shenzhou 4,StatusActive,,Success,China,100.2838215,40.964989,40.964989_100.2838214916303,Sun,16,1
 1066,VKS RF,"Site 16/2, Plesetsk Cosmodrome, Russia",Tue 12:20 UTC,Molniya-M /Block 2BL | Cosmos 2393,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,12,1
-,,,,,,,,,,,,,,
 1068,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Tue 23:04 UTC,Ariane 44L | NSS-6,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Tue,23,1
 1069,MHI,"LA-Y1, Tanegashima Space Center, Japan",Sat 01:31 UTC,"H-IIA 202 | Midori 2, WEOS & Others",StatusActive,90,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Sat,1,1
 1070,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France",Wed 22:22 UTC,"Ariane 5 ECA | Hot Bird 7, Stentor, MFD-A, MFD-B",StatusActive,200,Failure,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,22,1
@@ -1078,7 +1051,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1076,NASA,"LC-39B, Kennedy Space Center, Florida, USA",Mon 19:45 UTC,Space Shuttle Atlantis | STS-112,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Mon,19,1
 1077,VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia",Thu 14:27 UTC,Cosmos-3M (11K65M) | Nadiezhda-M n†­1,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,14,1
 1078,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",Wed 22:04 UTC,Atlas IIAS | Hispasat 1D,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,22,1
-,,,,,,,,,,,,,,
 1080,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",Thu 10:23 UTC,PSLV-G | C4 - MetSat-1 (Kalpana-1),StatusRetired,25,Success,India,80.16460302,13.72376835,13.72376835_80.16460301880002,Thu,10,1
 1081,MHI,"LA-Y1, Tanegashima Space Center, Japan",Tue 08:20 UTC,H-IIA 2024 | USERS & Kodama,StatusRetired,,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Tue,8,1
 1082,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Fri 06:44 UTC,Ariane 44L | Intelsat 906,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Fri,6,1
@@ -1093,7 +1065,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1091,Sea Launch,"LP Odyssey, Kiritimati Launch Area, Pacific Ocean",Sat 22:39 UTC,Zenit-3 SL | Galaxy IIIC,StatusActive,,Success,Kiribati,None,None,None_None,Sat,22,1
 1092,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Wed 21:22 UTC,Space Shuttle Endeavour | STS-111,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Wed,21,1
 1093,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Wed 06:44 UTC,Ariane 44L | Intelsat 905,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,6,1
-,,,,,,,,,,,,,,
 1095,VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia",Tue 08:14 UTC,Cosmos-3M (11K65M) | Cosmos 2389,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,8,1
 1096,CASC,"LC-7, Taiyuan Satellite Launch Center, China",Wed 01:50 UTC,Long March 4B | Fengyun-1D & Haiyang-1A,StatusActive,64.68,Success,China,111.6053224,38.84978335,38.84978335_111.60532243338425,Wed,1,1
 1097,Boeing,"SLC-2W, Vandenberg AFB, California, USA",Sat 09:54 UTC,Delta II 7920-10C | Aqua,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sat,9,1
@@ -1142,7 +1113,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1140,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Sat 06:45 UTC,Ariane 44L | Intelsat 901,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Sat,6,1
 1141,VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia",Fri 15:08 UTC,Cosmos-3M (11K65M) | Cosmos 2378,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,15,1
 1142,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA",Fri 17:45 UTC,Delta II 7925 | NROL-17 (GeoLITE),StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,17,1
-,,,,,,,,,,,,,,
 1144,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Thu 18:40 UTC,Space Shuttle Endeavour | STS-100,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Thu,18,1
 1145,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India",Wed 10:13 UTC,GSLV Mk I | GSAT-1,StatusRetired,47,Partial Failure,India,80.16460302,13.72376835,13.72376835_80.16460301880002,Wed,10,1
 1146,Boeing,"SLC-17A, Cape Canaveral AFS, Florida, USA",Sat 15:02 UTC,Delta II 7925 | Mars Odyssey,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,15,1
@@ -1230,7 +1200,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1228,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Sat 22:54 UTC,Ariane 44LP | GE-4,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Sat,22,1
 1229,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Tue 06:22 UTC,Ariane 44LP | Orion 2,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Tue,6,1
 1230,CASC,"LC-7, Taiyuan Satellite Launch Center, China",Thu 03:15 UTC,Long March 4B | CBERS-1 & SACI 1,StatusActive,64.68,Success,China,111.6053224,38.84978335,38.84978335_111.60532243338425,Thu,3,1
-,,,,,,,,,,,,,,
 1232,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Sat 06:29 UTC,Ariane 44LP | Telstar 7,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Sat,6,1
 1233,Lockheed,"SLC-6, Vandenberg AFB, California, USA",Fri 18:21 UTC,Athena II | Ikonos 1,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,18,1
 1234,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",Thu 06:02 UTC,Atlas IIAS | Echostar 5,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,6,1
@@ -1255,14 +1224,11 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1253,CASC,"LC-7, Taiyuan Satellite Launch Center, China",Mon 01:33 UTC,Long March 4B | Fengyun 1C & Shijian-5,StatusActive,64.68,Success,China,111.6053224,38.84978335,38.84978335_111.60532243338425,Mon,1,1
 1254,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA",Wed 01:00 UTC,Delta III 8930 | Orion 3,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,1,1
 1255,Lockheed,"SLC-40, Cape Canaveral AFS, Florida, USA",Fri 16:30 UTC,Titan IV(401)B | Milstar DFS-3m,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,16,1
-,,,,,,,,,,,,,,
 1257,Lockheed,"SLC-6, Vandenberg AFB, California, USA",Tue 18:22 UTC,Athena II | Ikonos,StatusRetired,,Failure,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Tue,18,1
-,,,,,,,,,,,,,,
 1259,Boeing,"SLC-2W, Vandenberg AFB, California, USA",Thu 18:32 UTC,Delta II 7920-10 | Landsat 7,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Thu,18,1
 1260,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",Mon 22:50 UTC,Atlas IIAS | Eutelsat W3,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,22,1
 1261,Lockheed,"SLC-41, Cape Canaveral AFS, Florida, USA",Fri 17:01 UTC,Titan IV(402)B | DSP,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,17,1
 1262,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Fri 22:03 UTC,Ariane 42P | Insat-2E,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Fri,22,1
-,,,,,,,,,,,,,,
 1264,Northrop,"Stargazer, Vandenberg AFB, California, USA",Fri 02:56 UTC,Pegasus XL | WIRE,StatusActive,40,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,2,1
 1265,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Fri 22:44 UTC,"Ariane 44L | Arabsat-3A, Skynet 4E",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Fri,22,1
 1266,Boeing,"SLC-2W, Vandenberg AFB, California, USA",Tue 10:29 UTC,"Delta II 7920-10 | ARGOS (P91-1 ARGOS), ?örsted and SUNSAT",StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Tue,10,1
@@ -1334,7 +1300,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1332,Northrop,"SLC-576E, Vandenberg AFB, California, USA",Tue 13:20 UTC,Minotaur C (Taurus) | GFO & Orbcomm 11 and 12,StatusActive,45,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Tue,13,1
 1333,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Wed 23:29 UTC,"Ariane 44LP | Brasilsat B3, Inmarsat-3 F5",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,23,1
 1334,Lockheed,"SLC-36A, Cape Canaveral AFS, Florida, USA",Thu 18:37 UTC,Atlas IIA | NROL-5/SDS,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,18,1
-,,,,,,,,,,,,,,
 1336,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Thu 02:48 UTC,Space Shuttle Endeavour | STS-89,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Thu,2,1
 1337,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA",Sat 00:32 UTC,Delta II 7925 | Skynet 4D,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,0,1
 1338,Lockheed,"SLC-46, Cape Canaveral AFS, Florida, USA",Wed 02:28 UTC,Athena II | Lunar Prospector,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,2,1
@@ -1353,7 +1318,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1351,Boeing,"SLC-2W, Vandenberg AFB, California, USA",Sun 01:34 UTC,Delta II 7920-10C | MS-5,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sun,1,1
 1352,Lockheed,"SLC-41, Cape Canaveral AFS, Florida, USA",Sat 02:05 UTC,Titan IV(401)A | NROL-4 (Trumpet),StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,2,1
 1353,Boeing,"SLC-17A, Cape Canaveral AFS, Florida, USA",Thu 00:30 UTC,Delta II 7925 | USA-134 (GPS IIA-19),StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,0,1
-,,,,,,,,,,,,,,
 1355,ESA,"ELA-3, Guiana Space Centre, French Guiana, France",Thu 13:43 UTC,"Ariane 5 G | MaqSat-H, TEAMSAT, MaqSat-B, YES",StatusRetired,,Partial Failure,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Thu,13,1
 1356,Lockheed,"SLC-36A, Cape Canaveral AFS, Florida, USA",Sat 00:46 UTC,Atlas IIA | DSCS IIIB-13,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,0,1
 1357,Lockheed,"SLC-4E, Vandenberg AFB, California, USA",Fri 02:32 UTC,Titan IV(403)A | NROL-3 (Lacrosse),StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,2,1
@@ -1513,7 +1477,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1511,Lockheed,"SLC-40, Cape Canaveral AFS, Florida, USA",Sun 13:45 UTC,Titan IV(401)A | Mentor,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sun,13,1
 1512,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Fri 01:44 UTC,Ariane 40 | ERS-2,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Fri,1,1
 1513,ILS,"SLC-36A, Cape Canaveral AFS, Florida, USA",Fri 23:47 UTC,Atlas IIA | AMSC-1,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,23,1
-,,,,,,,,,,,,,,
 1515,Northrop,"Stargazer, Vandenberg AFB, California, USA",Mon 13:48 UTC,Pegasus | Orbcomm F1 and F2 & OrbView-1,StatusRetired,40,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Mon,13,1
 1516,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Tue 11:19 UTC,"Ariane 44LP | Brasilsat B2, Hot Bird 1",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Tue,11,1
 1517,MITT,"Site 158, Plesetsk Cosmodrome, Russia",Tue 10:00 UTC,"Start | EKA-2, Gurwin & UNAMSAT A",StatusRetired,,Failure,Russia,40.574814,62.927843,62.927843_40.574814,Tue,10,1
@@ -1530,7 +1493,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1528,ISAS,"Mu Pad, Uchinoura Space Center, Japan",Sun 13:45 UTC,Mu-III S2 | EXPRESS,StatusRetired,,Partial Failure,Japan,131.0787961,31.25411165,31.25411165_131.07879609473065,Sun,13,1
 1529,ILS,"SLC-36B, Cape Canaveral AFS, Florida, USA",Tue 06:18 UTC,Atlas IIAS | Intelsat 704,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,6,1
 1530,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",Fri 10:02 UTC,Atlas-E/F Star-37S-ISS | NOAA-J,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Fri,10,1
-,,,,,,,,,,,,,,
 1532,VKS RF,"Site 32/2, Plesetsk Cosmodrome, Russia",Mon 22:26 UTC,Tsyklon-3 | Cosmos 2299 to 2304,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,22,1
 1533,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",Thu 22:19 UTC,Titan IV(402)A | DSP,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,22,1
 1534,VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia",Tue 05:10 UTC,Cosmos-3M (11K65M) | Cosmos 2298,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,5,1
@@ -1563,7 +1525,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1561,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Wed 23:05 UTC,"Ariane 44LP | Brasilsat B1, Turksat 1B",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,23,1
 1562,VKS RF,"Site 16/2, Plesetsk Cosmodrome, Russia",Fri 01:12 UTC,Molniya-M /Block 2BL | Cosmos 2286,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,1,1
 1563,Lockheed,"SLC-36A, Cape Canaveral AFS, Florida, USA",Wed 23:57 UTC,Atlas IIA | DBS-2,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,23,1
-,,,,,,,,,,,,,,
 1565,CASC,"LC-3, Xichang Satellite Launch Center, China",Thu 10:55 UTC,Long March 3 | Apstar-1,StatusRetired,,Success,China,102.027938,28.24576155,28.24576155_102.02793799844264,Thu,10,1
 1566,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia",Thu 05:13 UTC,Cosmos-3M (11K65M) | Nadiezhda n†­7,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,5,1
 1567,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Fri 23:05 UTC,"Ariane 44L | Panamsat-2, Yuri-3N",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Fri,23,1
@@ -1717,7 +1678,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1715,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Fri 01:18 UTC,Molniya-M /Block 2BL | Cosmos 2176,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,1,1
 1716,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Wed 14:52 UTC,Space Shuttle Discovery | STS-42,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Wed,14,1
 1717,CASC,"LC-3, Xichang Satellite Launch Center, China",Sat 12:00 UTC,Long March 3 | DFH-2A-T5,StatusRetired,,Partial Failure,China,102.027938,28.24576155,28.24576155_102.02793799844264,Sat,12,1
-,,,,,,,,,,,,,,
 1719,Yuzhmash,"Site 32/2, Plesetsk Cosmodrome, Russia",Wed 03:54 UTC,Tsyklon-3 | Intercosmos 25 & Magion 3,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,3,1
 1720,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Mon 22:19 UTC,"Ariane 44L | Telecom 2A, Inmarsat 2F3",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Mon,22,1
 1721,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",Sat 22:47 UTC,Atlas II | Eutelsat 2F3,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,22,1
@@ -1771,7 +1731,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1769,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Fri 15:19 UTC,Molniya-M /Block ML | Molniya-1 n†­147,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,15,1
 1770,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Tue 02:44 UTC,Cosmos-3M (11K65M) | Cosmos 2125 to 2132,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,2,1
 1771,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Tue 02:36 UTC,Cosmos-3M (11K65M) | Cosmos 2123,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,2,1
-,,,,,,,,,,,,,,
 1773,RVSN USSR,"Site 90/20, Baikonur Cosmodrome, Kazakhstan",Fri 11:34 UTC,Tsyklon-2 | Cosmos 2122,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,11,1
 1774,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Tue 23:10 UTC,"Ariane 44L | Italsat-1, Eutelsat 2F2",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Tue,23,1
 1775,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA",Tue 00:53 UTC,Delta II 7925 | NATO 4A,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,0,1
@@ -1780,10 +1739,8 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1778,RVSN USSR,"Site 90/20, Baikonur Cosmodrome, Kazakhstan",Tue 00:48 UTC,Tsyklon-2 | Cosmos 2107,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,0,1
 1779,NASA,"LC-39B, Kennedy Space Center, Florida, USA",Sun 06:49 UTC,Space Shuttle Columbia | STS-35,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Sun,6,1
 1780,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",Sat 15:57 UTC,Atlas-E/F Star-37S-ISS | DMSP F-10,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sat,15,1
-,,,,,,,,,,,,,,
 1782,Boeing,"SLC-17A, Cape Canaveral AFS, Florida, USA",Mon 21:39 UTC,Delta II 7925 | USA-66 (GPS IIA-1),StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,21,1
 1783,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Fri 03:51 UTC,Molniya-M /Block ML | Molniya-1 n†­146,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,3,1
-,,,,,,,,,,,,,,
 1785,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Tue 23:11 UTC,"Ariane 42P | Satcom C1, GStar-4",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Tue,23,1
 1786,RVSN USSR,"Site 16/2, Plesetsk Cosmodrome, Russia",Tue 02:33 UTC,Molniya-M /Block 2BL | Cosmos 2105,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,2,1
 1787,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Thu 23:48 UTC,Space Shuttle Atlantis | STS-38,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Thu,23,1
@@ -1831,7 +1788,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1829,CASC,"LC-3, Xichang Satellite Launch Center, China",Sat 13:30 UTC,Long March 3 | AsiaSat 1,StatusRetired,,Success,China,102.027938,28.24576155,28.24576155_102.02793799844264,Sat,13,1
 1830,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Fri 03:12 UTC,Cosmos-3M (11K65M) | Cosmos 2064 to 2071,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,3,1
 1831,Northrop,"NB-52B Carrier, Edwards AFB, California, USA",Thu 19:10 UTC,Pegasus | Pegsat & NavySat,StatusRetired,40,Success,United States of America,-117.9439533,34.900814,34.900814_-117.94395332567805,Thu,19,1
-,,,,,,,,,,,,,,
 1833,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Tue 16:40 UTC,Molniya-M /Block 2BL | Cosmos 2063,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,16,1
 1834,Boeing,"SLC-17A, Cape Canaveral AFS, Florida, USA",Mon 02:45 UTC,Delta II 6925 | USA-54 (GPS II-7),StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,2,1
 1835,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Tue 00:25 UTC,Cosmos-3M (11K65M) | Cosmos 2061,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,0,1
@@ -1844,7 +1800,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1842,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA",Wed 16:15 UTC,Delta II 6920-8 | LACE / RME,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Wed,16,1
 1843,MHI,"LA-Y1, Tanegashima Space Center, Japan",Wed 01:33 UTC,"H-I (9 SO) | Orizuru, Fuji 1b & Momo-1b",StatusRetired,,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Wed,1,1
 1844,MHI,"SLC-N, Tanegashima Space Center, Japan",Wed 01:33 UTC,H-I (9 SO) | MOS-1B / Oscar 20 / DEBUT,StatusRetired,,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Wed,1,1
-,,,,,,,,,,,,,,
 1846,CASC,"LC-3, Xichang Satellite Launch Center, China",Sun 12:28 UTC,Long March 3 | DFH-2A-T4,StatusRetired,,Success,China,102.027938,28.24576155,28.24576155_102.02793799844264,Sun,12,1
 1847,Boeing,"SLC-17A, Cape Canaveral AFS, Florida, USA",Tue 21:56 UTC,Delta II 6925 | USA-64 (GPS II-9),StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,21,1
 1848,RVSN USSR,"Site 32/1, Plesetsk Cosmodrome, Russia",Tue 11:20 UTC,Tsyklon-3 | Cosmos 2058,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,11,1
@@ -1855,7 +1810,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1853,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Thu 12:52 UTC,Cosmos-3M (11K65M) | Cosmos 2056,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,12,1
 1854,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Tue 12:35 UTC,Space Shuttle Columbia | STS-32,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Tue,12,1
 1855,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",Mon 00:07 UTC,Commercial Titan III | Skynet 4A & JCSAT-2,StatusRetired,136.6,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,0,1
-,,,,,,,,,,,,,,
 1857,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA",Mon 18:10 UTC,Delta II 6925 | NAVSTAR II-5,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Mon,18,1
 1858,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Tue 10:01 UTC,Molniya-M /Block ML | Molniya-3 n†­140,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,10,1
 1859,RVSN USSR,"Site 90/20, Baikonur Cosmodrome, Kazakhstan",Fri 23:22 UTC,Tsyklon-2 | Cosmos 2051,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,23,1
@@ -1902,13 +1856,11 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1900,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Wed 03:28 UTC,Cosmos-3M (11K65M) | Cosmos 2004,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,3,1
 1901,ISAS,"Mu Pad, Uchinoura Space Center, Japan",Tue 23:30 UTC,Mu-III S2 | Akebono,StatusRetired,,Success,Japan,131.0787961,31.25411165,31.25411165_131.07879609473065,Tue,23,1
 1902,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Wed 11:00 UTC,Molniya-M /Block ML | Molniya-1 n†­137,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,11,1
-,,,,,,,,,,,,,,
 1904,Boeing,"SLC-17A, Cape Canaveral AFS, Florida, USA",Tue 18:30 UTC,Delta II 6925 | NAVSTAR II-1 (USA 35),StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,18,1
 1905,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Tue 04:21 UTC,Molniya-M /Block 2BL | Cosmos 2001,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,4,1
 1906,RVSN USSR,"Site 32/1, Plesetsk Cosmodrome, Russia",Fri 15:13 UTC,Tsyklon-3 | Cosmos 1994 to 1999,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,15,1
 1907,Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",Fri 01:21 UTC,Ariane 2 | Intelsat-5A 15,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Fri,1,1
 1908,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Wed 05:27 UTC,Molniya-M /Block ML | Molniya-1 n†­136,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,5,1
-,,,,,,,,,,,,,,
 1910,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Thu 14:15 UTC,Molniya-M /Block ML | Molniya-3 n†­135,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,14,1
 1911,CASC,"LC-3, Xichang Satellite Launch Center, China",Thu 12:40 UTC,Long March 3 | DFH-2A-T3,StatusRetired,,Success,China,102.027938,28.24576155,28.24576155_102.02793799844264,Thu,12,1
 1912,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Sun 00:33 UTC,"Ariane 44LP | Skynet 4B, Astra 1A",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Sun,0,1
@@ -1924,7 +1876,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1922,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Thu 15:37 UTC,Space Shuttle Discovery | STS-26R,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Thu,15,1
 1923,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Thu 09:07 UTC,Molniya-M /Block ML | Molniya-3 n†­134,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,9,1
 1924,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",Sat 10:02 UTC,Atlas-E/F Star-37S-ISS | NOAA-H,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sat,10,1
-,,,,,,,,,,,,,,
 1926,MHI,"LA-Y1, Tanegashima Space Center, Japan",Fri 09:59 UTC,H-I UM-129A (9SO) | Sakura 3B,StatusRetired,,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Fri,9,1
 1927,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France",Thu 23:00 UTC,"Ariane 3 | GStar 5, SBS 5",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Thu,23,1
 1928,CASC,"Taiyuan Satellite Launch Center, China",Tue 20:30 UTC,Long March 4A | Fengyun 1A,StatusRetired,,Success,China,111.6053224,38.84978335,38.84978335_111.60532243338425,Tue,20,1
@@ -1939,7 +1890,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1937,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Mon 22:28 UTC,Cosmos-3M (11K65M) | Cosmos 1959,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,22,1
 1938,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Thu 11:40 UTC,Cosmos-3M (11K65M) | Cosmos 1958,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,11,1
 1939,RVSN USSR,"Site 32/1, Plesetsk Cosmodrome, Russia",Tue 09:45 UTC,Tsyklon-3 | Okean 1,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,9,1
-,,,,,,,,,,,,,,
 1941,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Tue 16:26 UTC,Cosmos-3M (11K65M) | Cosmos 1954,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,16,1
 1942,ESA,"ELA-2, Guiana Space Centre, French Guiana, France",Wed 11:19 UTC,"Ariane 44LP | Meteosat 3, Panamsat-1, Oscar 13",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,11,1
 1943,RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia",Tue 03:17 UTC,Tsyklon-3 | Cosmos 1953,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,3,1
@@ -1968,7 +1918,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1966,RVSN USSR,"Site 32/1, Plesetsk Cosmodrome, Russia",Fri 03:49 UTC,Tsyklon-3 | Cosmos 1909 to 1914,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,3,1
 1967,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Wed 20:22 UTC,Cosmos-3M (11K65M) | Cosmos 1904,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,20,1
 1968,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Mon 22:35 UTC,Molniya-M /Block 2BL | Cosmos 1903,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,22,1
-,,,,,,,,,,,,,,
 1970,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia",Tue 13:30 UTC,Cosmos-3M (11K65M) | Cosmos 1902,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,13,1
 1971,RVSN USSR,"Site 90/20, Baikonur Cosmodrome, Kazakhstan",Sat 05:40 UTC,Tsyklon-2 | Cosmos 1900,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,5,1
 1972,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Tue 14:15 UTC,Cosmos-3M (11K65M) | Cosmos 1898,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,14,1
@@ -1982,7 +1931,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 1980,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",Wed 07:15 UTC,Long March 2C | FSW-1 No.1,StatusActive,30.8,Success,China,100.2838215,40.964989,40.964989_100.2838214916303,Wed,7,1
 1981,RVSN USSR,"Site 32/1, Plesetsk Cosmodrome, Russia",Mon 23:50 UTC,Tsyklon-3 | Cosmos 1875 to 1880,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,23,1
 1982,RVSN USSR,"Site 45/1, Baikonur Cosmodrome, Kazakhstan",Fri 08:20 UTC,Zenit-2 | Cosmos 1873,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Fri,8,1
-,,,,,,,,,,,,,,
 1984,MHI,"LA-Y1, Tanegashima Space Center, Japan",Thu 09:20 UTC,H-I UM-129A (9SO) | Kiku 5,StatusRetired,,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Thu,9,1
 1985,RVSN USSR,"Site 32/1, Plesetsk Cosmodrome, Russia",Tue 02:26 UTC,Tsyklon-3 | Meteor-2 n†­16,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,2,1
 1986,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",Wed 06:39 UTC,Long March 2C | FSW-0 No.9,StatusActive,30.8,Success,China,100.2838215,40.964989,40.964989_100.2838214916303,Wed,6,1
@@ -2024,7 +1972,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2022,RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia",Mon 01:19 UTC,Tsyklon-3 | Meteor-2 n†­15,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,1,1
 2023,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia",Fri 15:25 UTC,Molniya-M /Block ML | Molniya-1 n†­128,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,15,1
 2024,RVSN USSR,"Site 86/1, Kapustin Yar, Russia",Thu 23:59 UTC,Cosmos-3MRB (65MRB) | BOR-5 Shuttle,StatusRetired,,Success,Russia,45.766895,48.575634,48.575634_45.766895,Thu,23,1
-,,,,,,,,,,,,,,
 2026,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Wed 17:02 UTC,Cosmos-3M (11K65M) | Cosmos 1808,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,17,1
 2027,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Fri 18:35 UTC,Molniya-M /Block 2BL | Cosmos 1806,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,18,1
 2028,RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia",Wed 07:30 UTC,Tsyklon-3 | Cosmos 1805,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,7,1
@@ -2136,9 +2083,7 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2134,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Wed 07:40 UTC,Molniya-M /Block ML | Molniya-3 n†­115,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,7,1
 2135,Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",Wed 01:15 UTC,"Ariane 3 | GStar-1, Telecom 1B",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,1,1
 2136,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Mon 16:02 UTC,Space Shuttle Challenger | STS-51-B,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Mon,16,1
-,,,,,,,,,,,,,,
 2138,RVSN USSR,"Site 90/20, Baikonur Cosmodrome, Kazakhstan",Thu 21:40 UTC,Tsyklon-2 | Cosmos 1646,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Thu,21,1
-,,,,,,,,,,,,,,
 2140,RVSN USSR,"Site 45/1, Baikonur Cosmodrome, Kazakhstan",Sat 08:00 UTC,Zenit-2 | EPN 03.0694 n†­1,StatusRetired,,Failure,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,8,1
 2141,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Fri 13:59 UTC,Space Shuttle Discovery | STS-51-D,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Fri,13,1
 2142,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",Fri 23:55 UTC,Atlas-G Centaur-D1AR | Intelsat V -510,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Fri,23,1
@@ -2148,7 +2093,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2146,RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia",Tue 15:39 UTC,Tsyklon-3 | Cosmos 1633,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,15,1
 2147,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Wed 12:56 UTC,Cosmos-3M (11K65M) | Cosmos 1631,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,12,1
 2148,Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France",Fri 23:22 UTC,"Ariane 3 | Arabsat-1A, Brasilsat-A1",StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Fri,23,1
-,,,,,,,,,,,,,,
 2150,ISAS,"Mu Pad, Uchinoura Space Center, Japan",Thu 19:26 UTC,Mu-III S2 | Sakigake,StatusRetired,,Success,Japan,131.0787961,31.25411165,31.25411165_131.07879609473065,Thu,19,1
 2151,RVSN USSR,"Site 32/1, Plesetsk Cosmodrome, Russia",Wed 21:45 UTC,Tsyklon-3 | Meteor-2 n†­12,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,21,1
 2152,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Fri 19:36 UTC,Cosmos-3M (11K65M) | Cosmos 1627,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,19,1
@@ -2198,14 +2142,12 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2196,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",Wed 11:37 UTC,Atlas-E/F SGS-2 | GPS-9,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,11,1
 2197,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",Sat 23:03 UTC,Atlas-G Centaur-D1AR | Intelsat V -509,StatusRetired,,Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,23,1
 2198,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Fri 11:28 UTC,Cosmos-3M (11K65M) | Cosmos 1570,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,11,1
-,,,,,,,,,,,,,,
 2200,RVSN USSR,"Site 16/2, Plesetsk Cosmodrome, Russia",Wed 15:33 UTC,Molniya-M /Block 2BL | Cosmos 1569,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,15,1
 2201,RVSN USSR,"Site 90/20, Baikonur Cosmodrome, Kazakhstan",Wed 18:46 UTC,Tsyklon-2 | Cosmos 1567,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,18,1
 2202,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Mon 21:52 UTC,Cosmos-3M (11K65M) | Cosmos 1559 to 1566,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,21,1
 2203,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",Wed 01:33 UTC,Ariane 1 | Spacenet F1,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Wed,1,1
 2204,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Thu 14:43 UTC,Cosmos-3M (11K65M) | Cosmos 1553,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,14,1
 2205,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Fri 06:19 UTC,Cosmos-3M (11K65M) | Cosmos 1550,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,6,1
-,,,,,,,,,,,,,,
 2207,US Air Force,"SLC-4W, Vandenberg AFB, California, USA",Tue 17:45 UTC,Titan III(24)B | OPS 8424,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Tue,17,1
 2208,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA",Sat 16:52 UTC,Titan 34D | DSP-11,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Sat,16,1
 2209,CASC,"LC-3, Xichang Satellite Launch Center, China",Sun 11:20 UTC,Long March 3 | STTW 2 (Dong Fang Hong 2),StatusRetired,,Success,China,102.027938,28.24576155,28.24576155_102.02793799844264,Sun,11,1
@@ -2257,7 +2199,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2255,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA",Thu 10:21 UTC,Atlas-E/F SGS-2 | GPS-8,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Thu,10,1
 2256,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia",Fri 19:21 UTC,Molniya-M /Block 2BL | Cosmos 1481,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,19,1
 2257,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Wed 00:31 UTC,Cosmos-3M (11K65M) | Cosmos 1473 to 1480,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,0,1
-,,,,,,,,,,,,,,
 2259,RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia",Wed 23:58 UTC,Tsyklon-3 | Cosmos 1470,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,23,1
 2260,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",Mon 18:45 UTC,Titan 34D | OPS-0721 (KH-9),StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Mon,18,1
 2261,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Sat 11:33 UTC,Space Shuttle Challenger | STS-7,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Sat,11,1
@@ -2269,7 +2210,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2267,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Thu 12:00 UTC,Cosmos-3M (11K65M) | Cosmos 1463,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,12,1
 2268,RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan",Sat 10:30 UTC,Tsyklon-2 | Cosmos 1461,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Sat,10,1
 2269,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Fri 03:00 UTC,Cosmos-3M (11K65M) | Cosmos 1459,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,3,1
-,,,,,,,,,,,,,,
 2271,RVSN USSR,"Site 16/2, Plesetsk Cosmodrome, Russia",Mon 19:33 UTC,Molniya-M /Block 2BL | Cosmos 1456,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,19,1
 2272,RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia",Sat 14:30 UTC,Tsyklon-3 | Cosmos 1455,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,14,1
 2273,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Tue 12:00 UTC,Cosmos-3M (11K65M) | Cosmos 1453,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,12,1
@@ -2301,7 +2241,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2299,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA",Wed 21:22 UTC,Titan IIID | KH-11,StatusRetired,,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Wed,21,1
 2300,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Thu 12:19 UTC,Space Shuttle Columbia | STS-5,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Thu,12,1
 2301,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Thu 06:14 UTC,Cosmos-3M (11K65M) | Cosmos 1420,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,6,1
-,,,,,,,,,,,,,,
 2303,RVSN USSR,"Site 107/1, Kapustin Yar, Russia",Thu 14:00 UTC,Cosmos-3M (11K65M) | Cosmos 1418,StatusRetired,,Success,Russia,45.766895,48.575634,48.575634_45.766895,Thu,14,1
 2304,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Tue 05:58 UTC,Cosmos-3M (11K65M) | Cosmos 1417,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,5,1
 2305,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",Tue 23:17 UTC,Atlas-SLV3D Centaur-D1AR | Intelsat V -505,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,23,1
@@ -2363,12 +2302,10 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2361,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan",Wed 13:15 UTC,Molniya-M /Block ML | Molniya-1 n†­96,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Wed,13,1
 2362,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France",Sun 01:29 UTC,Ariane 1 | MARCES-1 & CAT-4,StatusRetired,,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,Sun,1,1
 2363,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA",Sat 01:10 UTC,Atlas-E/F SGS-1 | GPS-7,StatusRetired,,Failure,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,Sat,1,1
-,,,,,,,,,,,,,,
 2365,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA",Tue 23:35 UTC,Atlas-SLV3D Centaur-D1AR | Intelsat V -503,StatusRetired,,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,Tue,23,1
 2366,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Fri 11:06 UTC,Cosmos-3M (11K65M) | Cosmos 1304,StatusRetired,,Partial Failure,Russia,40.574814,62.927843,62.927843_40.574814,Fri,11,1
 2367,RVSN USSR,"Site 32/1, Plesetsk Cosmodrome, Russia",Thu 11:47 UTC,Tsyklon-3 | Cosmos 1328,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,11,1
 2368,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Sat 18:08 UTC,Cosmos-3M (11K65M) | Cosmos 1320 to 1327,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,18,1
-,,,,,,,,,,,,,,
 2370,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia",Tue 15:25 UTC,Molniya-M /Block ML | Molniya-1 n†­95,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Tue,15,1
 2371,NASA,"LC-39A, Kennedy Space Center, Florida, USA",Thu 15:09 UTC,Space Shuttle Columbia | STS-2,StatusRetired,450,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,Thu,15,1
 2372,RVSN USSR,"Site 16/2, Plesetsk Cosmodrome, Russia",Sat 22:53 UTC,Molniya-M /Block 2BL | Cosmos 1317,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Sat,22,1
@@ -2378,7 +2315,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2376,RVSN USSR,"Site 32/1, Plesetsk Cosmodrome, Russia",Wed 08:00 UTC,Tsyklon-3 | Cosmos 1312,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,8,1
 2377,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Mon 21:00 UTC,Cosmos-3M (11K65M) | Cosmos 1311,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Mon,21,1
 2378,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Wed 08:00 UTC,Cosmos-3M (11K65M) | Cosmos 1310,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,8,1
-,,,,,,,,,,,,,,
 2380,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",Sat 21:28 UTC,Feng Bao 1 | Shijian 2,StatusRetired,,Success,China,100.2838215,40.964989,40.964989_100.2838214916303,Sat,21,1
 2381,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia",Fri 03:34 UTC,Cosmos-3M (11K65M) | Cosmos 1308,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Fri,3,1
 2382,RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan",Mon 20:31 UTC,Tsyklon-2 | Cosmos 1306,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Mon,20,1
@@ -2389,7 +2325,6 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,Status Mission,C
 2387,RVSN USSR,"Site 90/20, Baikonur Cosmodrome, Kazakhstan",Mon 16:37 UTC,Tsyklon-2 | Cosmos 1299,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Mon,16,1
 2388,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Wed 05:46 UTC,Cosmos-3M (11K65M) | Cosmos 1295,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Wed,5,1
 2389,MHI,"LA-Y1, Tanegashima Space Center, Japan",Mon 20:03 UTC,N-II Star-37E | Himawari 2,StatusRetired,,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,Mon,20,1
-,,,,,,,,,,,,,,
 2391,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia",Thu 11:49 UTC,Cosmos-3M (11K65M) | Cosmos 1287 to 1294,StatusRetired,,Success,Russia,40.574814,62.927843,62.927843_40.574814,Thu,11,1
 2392,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA",Thu 08:16 UTC,Atlas-SLV3D Centaur-D1AR | FLTSATCOM-5,StatusRetired,,Partial Failure,United States of America,-80.572293,28.488798,28.488798_-80.572293,Thu,8,1
 2393,RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan",Tue 08:28 UTC,Tsyklon-2 | Cosmos 1286,StatusRetired,,Success,Kazakhstan,63.40837214,45.9178932,45.917893199999995_63.40837213703634,Tue,8,1

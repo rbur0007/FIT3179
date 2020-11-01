@@ -1,4 +1,4 @@
-Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,SM,Country,Longitude,Latitude,Coordinates,decade,count,year
+Item,CM,Location_x,Datum,Detail,Status Rocket, Rocket,SM,Country,Longitude,Latitude,Coordinates,decade,count,year
 0,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 07, 2020 05:12 UTC",Falcon 9 Block 5 | Starlink V1 L9 & BlackSky,StatusActive,50,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,2007-Present,1,2020
 1,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Aug 06, 2020 04:01 UTC",Long March 2D | Gaofen-9 04 & Q-SAT,StatusActive,29.75,Success,China,100.2838215,40.964989,40.964989_100.2838214916303,2007-Present,1,2020
 2,SpaceX,"Pad A, Boca Chica, Texas, USA","Tue Aug 04, 2020 23:57 UTC",Starship Prototype | 150 Meter Hop,StatusActive,,Success,United States of America,-96.0370436,32.2177481,32.2177481_-96.0370436,2007-Present,1,2020
@@ -480,7 +480,7 @@ Item,Company Name,Location_x,Datum,Detail,Status Rocket, Rocket,SM,Country,Longi
 478,MHI,"LA-Y1, Tanegashima Space Center, Japan","Tue Nov 24, 2015 06:50 UTC",H-IIA 204 | Telstar 12 Vantage,StatusActive,,Success,Japan,130.9712615,30.4034117,30.4034117_130.97126149653548,2007-Present,1,2015
 479,Blue Origin,"Blue Origin Launch Site, West Texas, Texas, USA","Mon Nov 23, 2015",New Shepard | NS-2,StatusActive,,Success,United States of America,-98.1626132,26.172826,26.172826_-98.1626132,2007-Present,1,2015
 480,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Nov 10, 2015 21:34 UTC","Ariane 5 ECA | Arabsat 6B, GSAT-15",StatusActive,200,Success,France,-52.77388327,5.21237515,5.21237515_-52.77388326708221,2007-Present,1,2015
-481,Sandia,"LP-41, Kauai, Pacific Missile Range Facility","Wed Nov 04, 2015","Super Stripy | HiakaSat, STACEM & Others",StatusActive,15,Failure,United States,-159.784759,22.02595125,22.02595125_-159.78475899847962,2007-Present,1,2015
+481,Sandia,"LP-41, Kauai, Pacific Missile Range Facility","Wed Nov 04, 2015","Super Stripy | HiakaSat, STACEM & Others",StatusActive,15,Failure,United States of America,-159.784759,22.02595125,22.02595125_-159.78475899847962,2007-Present,1,2015
 482,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Oct 31, 2015 16:13 UTC",Atlas V 401 | GPS IIF-11,StatusActive,109,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,2007-Present,1,2015
 483,ULA,"SLC-3E, Vandenberg AFB, California, USA","Thu Oct 08, 2015 12:49 UTC",Atlas V 401 | NROL-55,StatusActive,109,Success,United States of America,-120.5826246,34.73835455,34.73835455_-120.58262457020024,2007-Present,1,2015
 484,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Oct 02, 2015 10:28 UTC",Atlas V 421 | Morelos-3,StatusActive,123,Success,United States of America,-80.572293,28.488798,28.488798_-80.572293,2007-Present,1,2015

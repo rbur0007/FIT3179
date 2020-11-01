@@ -1,0 +1,395 @@
+Country,year,count
+China,1969,1
+China,1970,1
+China,1971,1
+China,1972,1
+China,1973,1
+China,1974,2
+China,1975,3
+China,1976,3
+China,1977,1
+China,1978,2
+China,1979,1
+China,1981,1
+China,1982,1
+China,1983,1
+China,1984,3
+China,1985,1
+China,1986,2
+China,1987,2
+China,1988,4
+China,1990,5
+China,1991,1
+China,1992,4
+China,1993,1
+China,1994,5
+China,1995,3
+China,1996,4
+China,1997,6
+China,1998,6
+China,1999,4
+China,2000,4
+China,2001,1
+China,2002,5
+China,2003,7
+China,2004,8
+China,2005,5
+China,2006,6
+China,2007,10
+China,2008,9
+China,2011,2
+China,2012,1
+China,2013,2
+China,2014,1
+China,2015,2
+China,2016,22
+China,2017,18
+China,2018,39
+China,2019,34
+China,2020,22
+France,1965,1
+France,1966,1
+France,1967,2
+France,1970,2
+France,1971,3
+France,1973,1
+France,1975,3
+France,1979,1
+France,1980,1
+France,1981,2
+France,1982,1
+France,1983,2
+France,1984,4
+France,1985,4
+France,1986,3
+France,1987,2
+France,1988,7
+France,1989,7
+France,1990,6
+France,1991,8
+France,1992,7
+France,1993,7
+France,1994,8
+France,1995,11
+France,1996,11
+France,1997,12
+France,1998,11
+France,1999,10
+France,2000,12
+France,2001,8
+France,2002,12
+France,2003,4
+France,2004,3
+France,2005,5
+France,2006,5
+France,2007,6
+France,2008,6
+France,2009,7
+France,2010,6
+France,2011,7
+France,2012,10
+France,2013,7
+France,2014,11
+France,2015,12
+France,2016,11
+France,2017,11
+France,2018,11
+France,2019,9
+France,2020,2
+India,1979,1
+India,1980,1
+India,1981,1
+India,1983,1
+India,1987,1
+India,1988,1
+India,1989,1
+India,1993,1
+India,1994,2
+India,1996,1
+India,1997,1
+India,1999,1
+India,2001,2
+India,2002,1
+India,2003,2
+India,2004,1
+India,2005,1
+India,2006,1
+India,2007,3
+India,2008,3
+India,2009,2
+India,2010,3
+India,2011,3
+India,2012,3
+India,2013,3
+India,2014,5
+India,2015,5
+India,2016,7
+India,2017,5
+India,2018,7
+India,2019,6
+Iran,2008,1
+Iran,2009,1
+Iran,2011,1
+Iran,2012,3
+Iran,2015,2
+Iran,2017,1
+Iran,2019,3
+Iran,2020,2
+Japan,1966,2
+Japan,1967,1
+Japan,1969,1
+Japan,1970,2
+Japan,1971,3
+Japan,1972,1
+Japan,1974,1
+Japan,1975,2
+Japan,1976,2
+Japan,1977,2
+Japan,1978,3
+Japan,1979,1
+Japan,1980,2
+Japan,1981,3
+Japan,1982,1
+Japan,1983,3
+Japan,1984,3
+Japan,1985,2
+Japan,1986,2
+Japan,1987,3
+Japan,1988,2
+Japan,1989,2
+Japan,1990,5
+Japan,1991,3
+Japan,1992,1
+Japan,1993,1
+Japan,1994,2
+Japan,1995,2
+Japan,1996,1
+Japan,1997,2
+Japan,1998,2
+Japan,1999,1
+Japan,2000,1
+Japan,2001,1
+Japan,2002,3
+Japan,2003,3
+Japan,2005,2
+Japan,2006,6
+Japan,2007,2
+Japan,2008,1
+Japan,2009,3
+Japan,2010,1
+Japan,2011,4
+Japan,2012,2
+Japan,2013,3
+Japan,2014,4
+Japan,2015,4
+Japan,2016,4
+Japan,2017,7
+Japan,2018,6
+Japan,2019,2
+Japan,2020,3
+Kazakhstan,1957,2
+Kazakhstan,1958,5
+Kazakhstan,1959,4
+Kazakhstan,1960,9
+Kazakhstan,1961,7
+Kazakhstan,1962,14
+Kazakhstan,1963,16
+Kazakhstan,1964,28
+Kazakhstan,1965,43
+Kazakhstan,1966,36
+Kazakhstan,1967,38
+Kazakhstan,1968,40
+Kazakhstan,1969,38
+Kazakhstan,1970,29
+Kazakhstan,1971,31
+Kazakhstan,1972,22
+Kazakhstan,1973,17
+Kazakhstan,1974,23
+Kazakhstan,1975,23
+Kazakhstan,1976,29
+Kazakhstan,1977,25
+Kazakhstan,1978,9
+Kazakhstan,1979,3
+Kazakhstan,1980,6
+Kazakhstan,1981,10
+Kazakhstan,1982,10
+Kazakhstan,1983,6
+Kazakhstan,1984,4
+Kazakhstan,1985,12
+Kazakhstan,1986,7
+Kazakhstan,1987,12
+Kazakhstan,1988,9
+Kazakhstan,1989,4
+Kazakhstan,1990,7
+Kazakhstan,1991,4
+Kazakhstan,1992,3
+Kazakhstan,1993,6
+Kazakhstan,1994,6
+Kazakhstan,1995,4
+Kazakhstan,1996,2
+Kazakhstan,1997,3
+Kazakhstan,1998,3
+Kazakhstan,1999,3
+Kazakhstan,2000,3
+Kazakhstan,2001,2
+Kazakhstan,2002,1
+Kazakhstan,2003,2
+Kazakhstan,2004,3
+Kazakhstan,2005,1
+Kazakhstan,2006,2
+Kazakhstan,2007,3
+Kazakhstan,2008,2
+Kazakhstan,2009,4
+Kazakhstan,2010,5
+Kazakhstan,2011,4
+Kazakhstan,2013,3
+Kazakhstan,2014,1
+Kazakhstan,2015,1
+Kazakhstan,2016,11
+Kazakhstan,2017,13
+Kazakhstan,2018,9
+Kazakhstan,2019,13
+Kazakhstan,2020,6
+Kiribati,1999,2
+Kiribati,2000,3
+Kiribati,2001,2
+Kiribati,2002,1
+Kiribati,2003,3
+Kiribati,2004,3
+Kiribati,2005,4
+Kiribati,2006,5
+Kiribati,2007,1
+Kiribati,2008,5
+Kiribati,2009,1
+Kiribati,2011,1
+Kiribati,2012,3
+Kiribati,2013,1
+Kiribati,2014,1
+New Zealand,2017,1
+New Zealand,2018,3
+New Zealand,2019,6
+New Zealand,2020,3
+Russia,1961,2
+Russia,1962,8
+Russia,1963,8
+Russia,1964,8
+Russia,1965,10
+Russia,1966,15
+Russia,1967,37
+Russia,1968,40
+Russia,1969,45
+Russia,1970,59
+Russia,1971,62
+Russia,1972,57
+Russia,1973,67
+Russia,1974,60
+Russia,1975,66
+Russia,1976,66
+Russia,1977,72
+Russia,1978,62
+Russia,1979,33
+Russia,1980,34
+Russia,1981,41
+Russia,1982,43
+Russia,1983,40
+Russia,1984,38
+Russia,1985,39
+Russia,1986,42
+Russia,1987,30
+Russia,1988,27
+Russia,1989,22
+Russia,1990,30
+Russia,1991,25
+Russia,1992,20
+Russia,1993,21
+Russia,1994,15
+Russia,1995,10
+Russia,1996,8
+Russia,1997,7
+Russia,1998,8
+Russia,1999,4
+Russia,2000,6
+Russia,2001,5
+Russia,2002,8
+Russia,2003,7
+Russia,2004,5
+Russia,2005,7
+Russia,2006,6
+Russia,2007,5
+Russia,2008,6
+Russia,2009,5
+Russia,2010,5
+Russia,2011,2
+Russia,2012,1
+Russia,2013,7
+Russia,2014,6
+Russia,2015,4
+Russia,2016,6
+Russia,2017,6
+Russia,2018,8
+Russia,2019,9
+Russia,2020,3
+United States of America,1957,1
+United States of America,1958,23
+United States of America,1959,16
+United States of America,1960,30
+United States of America,1961,43
+United States of America,1962,60
+United States of America,1963,17
+United States of America,1964,24
+United States of America,1965,33
+United States of America,1966,47
+United States of America,1967,26
+United States of America,1968,22
+United States of America,1969,17
+United States of America,1970,11
+United States of America,1971,16
+United States of America,1972,17
+United States of America,1973,17
+United States of America,1974,10
+United States of America,1975,15
+United States of America,1976,13
+United States of America,1977,14
+United States of America,1978,21
+United States of America,1979,9
+United States of America,1980,11
+United States of America,1981,13
+United States of America,1982,11
+United States of America,1983,13
+United States of America,1984,17
+United States of America,1985,16
+United States of America,1986,6
+United States of America,1987,6
+United States of America,1988,7
+United States of America,1989,16
+United States of America,1990,26
+United States of America,1991,18
+United States of America,1992,27
+United States of America,1993,24
+United States of America,1994,26
+United States of America,1995,30
+United States of America,1996,33
+United States of America,1997,36
+United States of America,1998,36
+United States of America,1999,31
+United States of America,2000,28
+United States of America,2001,22
+United States of America,2002,17
+United States of America,2003,23
+United States of America,2004,16
+United States of America,2005,12
+United States of America,2006,18
+United States of America,2007,19
+United States of America,2008,15
+United States of America,2009,25
+United States of America,2010,15
+United States of America,2011,18
+United States of America,2012,13
+United States of America,2013,19
+United States of America,2014,23
+United States of America,2015,21
+United States of America,2016,27
+United States of America,2017,30
+United States of America,2018,34
+United States of America,2019,27
+United States of America,2020,21

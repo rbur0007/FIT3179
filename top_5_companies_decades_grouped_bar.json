@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top5_companies_decade_grouping.csv"
+  },
+  "height": 120,
+  "width": {"step": 30},
+  "mark": "bar",
+  "encoding": {
+    "column": {
+      "field": "decade",
+      "type": "ordinal",
+      "spacing": 10,
+      "title": "Decade"
+    },
+    "x": {
+      "aggregate": "sum",
+      "field": "count",
+      "title": "Total Launches",
+      "axis": {"grid": false}
+    },
+    "y": {"field": "CM", "axis": {"title": ""}},
+    "color": {
+      "field": "CM",
+      "scale": {"scheme": "category20b"},
+      "sort": ["RVSN USSR", "Arianespace", "General Dynamics"]
+    }
+  },
+  "config": {"view": {"stroke": "transparent"}, "axis": {"domainWidth": 1}}
+}

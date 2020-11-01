@@ -1,0 +1,29 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/spacelaunch_decade_addition.csv"
+  },
+  "width": 600,
+  "height": 300,
+  "mark": {"type": "line", "interpolate": "monotone"},
+  "encoding": {
+    "x": {"field": "year", "timeUnit": "year", "title": "Year"},
+    "y": {"field": "count", "aggregate": "sum", "title": "No. Launches"},
+    "color": {
+      "type": "nominal",
+      "field": "SM",
+      "title": "Mission Outcome",
+      "sort": ["Success", "Failure"],
+      "scale": {
+        "domain": [
+          "Success",
+          "Failure",
+          "Prelaunch Failure",
+          "Partial Failure"
+        ],
+        "range": ["#40ba27", "#FF0004", "#EBE017", "#F2891F"]
+      }
+    }
+  },
+  "config": {}
+}

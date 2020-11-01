@@ -1,0 +1,15 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/spacelaunch_countries_per_year.csv"
+  },
+  "width": 600,
+  "height": 400,
+  "mark": {"type": "line", "interpolate": "monotone"},
+  "encoding": {
+    "x": {"field": "year", "timeUnit": "year"},
+    "y": {"field": "count", "aggregate": "sum"},
+    "color": {"type": "nominal", "field": "Country", "title": "Year"}
+  },
+  "config": {}
+}

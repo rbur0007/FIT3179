@@ -1,4 +1,4 @@
-Item,CM,Location_x,Datum,Detail,Status Rocket, Rocket,SM,Country,Longitude,Latitude,Coordinates,decade,count,year
+Item,CM,Location_x,Datum,Detail,Status Rocket,spend,SM,Country,Longitude,Latitude,Coordinates,decade,count,year
 0,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 07, 2020 05:12 UTC",Falcon 9 Block 5 | Starlink V1 L9 & BlackSky,StatusActive,50,Success,United States of America,-80.68036706,28.5225289,28.5225289_-80.68036706230734,2007-Present,1,2020
 1,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Aug 06, 2020 04:01 UTC",Long March 2D | Gaofen-9 04 & Q-SAT,StatusActive,29.75,Success,China,100.2838215,40.964989,40.964989_100.2838214916303,2007-Present,1,2020
 2,SpaceX,"Pad A, Boca Chica, Texas, USA","Tue Aug 04, 2020 23:57 UTC",Starship Prototype | 150 Meter Hop,StatusActive,,Success,United States of America,-96.0370436,32.2177481,32.2177481_-96.0370436,2007-Present,1,2020

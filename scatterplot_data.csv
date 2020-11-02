@@ -1,32 +1,18 @@
-Country,SM,mission_status
-Australia,Failure,3
-Australia,Success,3
-Brazil,Failure,3
-China,Failure,25
-China,Success,244
-France,Failure,18
-France,Success,285
-India,Failure,13
-India,Success,63
-Iran,Failure,9
-Iran,Success,5
-Israel,Failure,2
-Israel,Success,9
-Japan,Failure,13
-Japan,Success,113
-Kazakhstan,Failure,93
-Kazakhstan,Success,608
-Kenya,Success,9
-Kiribati,Failure,3
-Kiribati,Success,33
-New Zealand,Failure,2
-New Zealand,Success,11
-North Korea,Failure,3
-North Korea,Success,2
-Russia,Failure,93
-Russia,Success,1305
-South Korea,Failure,2
-South Korea,Success,1
-Spain,Success,2
-United States,Failure,163
-United States,Success,1186
+Country,fail_rate,launches,total_spend
+Australia,50%,6
+Brazil,0%,3
+China,90.7%,269
+France,94%,303
+India,82.8%,76
+Iran,35.7%,14
+Israel,81.8%
+Japan,86.6%,126
+Kazakhstan,86.7%,701
+Kenya,100%,9
+Kiribati,91.6,36
+New Zealand,86.6,13
+North Korea,40%,5
+Russia,93.9%,1398
+South Korea,33.3%,3
+Spain,Success,100%,2
+United States,87.9,1349

@@ -1,43 +1,10 @@
-Country,SM,mission_status
-Australia,Failure,3
-Australia,Success,3
-Brazil,Failure,2
-Brazil,Prelaunch Failure,1
-China,Failure,19
-China,Partial Failure,6
-China,Success,244
-France,Failure,13
-France,Partial Failure,5
-France,Success,285
-India,Failure,8
-India,Partial Failure,5
-India,Success,63
-Iran,Failure,8
-Iran,Prelaunch Failure,1
-Iran,Success,5
-Israel,Failure,2
-Israel,Success,9
-Japan,Failure,10
-Japan,Partial Failure,3
-Japan,Success,113
-Kazakhstan,Failure,72
-Kazakhstan,Partial Failure,20
-Kazakhstan,Prelaunch Failure,1
-Kazakhstan,Success,608
-Kenya,Success,9
-Kiribati,Failure,3
-Kiribati,Success,33
-New Zealand,Failure,2
-New Zealand,Success,11
-North Korea,Failure,3
-North Korea,Success,2
-Russia,Failure,63
-Russia,Partial Failure,30
-Russia,Success,1305
-South Korea,Failure,2
-South Korea,Success,1
-Spain,Success,2
-United States of America,Failure,129
-United States of America,Partial Failure,33
-United States of America,Prelaunch Failure,1
-United States of America,Success,1186
+Country,SM,spend
+China,90.7,6368.56
+France,94,16285
+India,82.8,2177
+Japan,89.6,3700
+Kazakhstan,86.7,2150
+New Zealand,84.6,97.5
+Russia,Failure,93.3,2189
+Spain,Success,100,80
+United States of America,87.9,105207.32

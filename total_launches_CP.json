@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "COVID-19 Active Cases (10 Oct 2020)",
   "width": 600,
   "height": 400,
   "data": {
@@ -23,7 +22,11 @@
   "projection": {"type": "equalEarth"},
   "mark": {"type": "geoshape", "stroke": "grey"},
   "encoding": {
-    "color": {"field": "launches", "type": "quantitative"},
+    "color": {
+      "field": "launches",
+      "type": "quantitative",
+      "title": "Total Launches"
+    },
     "tooltip": [
       {"field": "properties.name", "type": "nominal", "title": "Country"},
       {"field": "launches", "type": "quantitative", "title": "Total Launches"}

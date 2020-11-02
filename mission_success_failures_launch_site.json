@@ -1,16 +1,19 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "height": 400,
-  "width": 700,
   "data": {
-    "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/stacked_bar_cut_down.csv"
+    "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/spacelaunch_decade_addition.csv"
   },
-  "mark": "bar",
+  "width": 600,
+  "height": 300,
+  "mark": {"type": "line", "interpolate": "monotone"},
   "encoding": {
-    "y": {"title": "", "field": "location_abrev"},
+    "x": {"field": "year", "timeUnit": "year", "title": "Year"},
+    "y": {"field": "count", "aggregate": "sum", "title": "No. Launches"},
     "color": {
       "type": "nominal",
-      "field": "Status Mission",
+      "field": "SM",
+      "title": "Mission Outcome",
+      "sort": ["Success", "Failure"],
       "scale": {
         "domain": [
           "Success",
@@ -19,14 +22,17 @@
           "Partial Failure"
         ],
         "range": ["#40ba27", "#FF0004", "#EBE017", "#F2891F"]
-      },
-      "title": "Launch Outcome"
+      }
     },
-    "x": {
-      "aggregate": "count",
-      "stack": "normalize",
-      "title": "Propotion of Total Outcomes"
-    }
+    "tooltip": [
+      {"field": "SM", "type": "nominal", "title": "Mission Outcome"},
+      {
+        "aggregate": "count",
+        "field": "count",
+        "type": "quantitative",
+        "title": "No. Launches"
+      }
+    ]
   },
   "config": {}
 }

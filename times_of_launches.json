@@ -40,9 +40,18 @@
         "23",
         "24"
       ],
-      "title": "Hours"
+      "title": "Hour (24h time)",
+      "axis": {"labelAngle": 360}
     },
-    "color": {"aggregate": "count", "field": "count"}
+    "color": {"aggregate": "count", "field": "count", "title": "No. Launches"},
+    "tooltip": [
+      {
+        "aggregate": "count",
+        "field": "count",
+        "type": "quantitative",
+        "title": "No. Launches"
+      }
+    ]
   },
   "config": {"axis": {"grid": true, "tickBand": "extent"}}
 }

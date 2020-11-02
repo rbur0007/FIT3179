@@ -24,7 +24,17 @@
       "field": "CM",
       "scale": {"scheme": "category20b"},
       "sort": ["RVSN USSR", "Arianespace", "General Dynamics"]
-    }
+    },
+    "tooltip": [
+      {"field": "CM", "type": "nominal", "title": "Company"},
+      {"field": "decade", "type": "nominal", "title": "Decade"},
+      {
+        "aggregate": "sum",
+        "field": "count",
+        "type": "quantitative",
+        "title": "Total Launches"
+      }
+    ]
   },
   "config": {"view": {"stroke": "transparent"}, "axis": {"domainWidth": 1}}
 }

@@ -2,7 +2,6 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 550,
   "height": 280,
-  "title": "Space Launches per Launch Site",
   "projection": {"type": "equalEarth"},
   "layer": [
     {
@@ -14,7 +13,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/rbur0007/FIT3179/main/spacelaunch_nolaunches_longlat.csv",
+        "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/launch_location_counts.csv",
         "format": {"type": "csv"}
       },
       "mark": {"type": "circle", "fill": "#050875"},
@@ -29,7 +28,15 @@
             "domain": [5, 20, 50, 100, 300, 400, 800, 1200]
           },
           "legend": {"title": "No. Launches"}
-        }
+        },
+        "tooltip": [
+          {
+            "field": "location_abrev",
+            "type": "nominal",
+            "title": "Launch Site"
+          },
+          {"field": "launches", "type": "quantitative"}
+        ]
       }
     }
   ],

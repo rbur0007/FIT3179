@@ -1,10 +1,10 @@
-Country,SM,spend
-China,95.5,6368.56
-France,96.8,16285
-India,88,2177
-Japan,100,3700
-Kazakhstan,93.4,2150
-New Zealand,84.6,97.5
-Russia,94.3,2189
-Spain,Success,100,80
-United States of America,98.2,105207.32
+Country,SM,av_spend
+China,90.7,40.05
+France,94,171.4
+India,82.8,32.4
+Japan,89.6,92.5
+Kazakhstan,86.7,46.73
+New Zealand,84.6,7.5
+Russia,93.3,40.5
+Spain,100,40
+United States of America,87.9,215.5

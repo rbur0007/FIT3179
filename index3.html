@@ -12,14 +12,28 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
     <!-- Import vega-embed -->
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <style>
+      table {
+        border-collapse: separate;
+        border-spacing: 0 15px;
+      }
+      </style>
   </head>
 
   <!-- custom style -->
   <section class="hero is-dark">
   <div class="hero-body">
     <div class="container">
+      <table>
+        <tr>
+          <td style="flex:none;width:10%">
+          </td>
+          <td>
       <p class="title is-1">Space Mission Launches</p>
       <p class="subtitle is-3">from 1957 - 2020</p>
+    </td>
+    </tr>
+    </table>
     </div>
   </div>
   </section>
@@ -27,36 +41,62 @@
 
 
   <div class="columns">
-    <div class="column">Auto
+    <div class="column"style=background:grey;>
     </div>
-    <div class="column is-four-fifths" style="background:powderblue;">is-four-fifths
+    <div class="column is-four-fifths">
+      <h2 class="subtitle">
+        The artificial staellite Sputnik 8K71PS, more commonly known as <strong>Sputnik-1</strong> was the first man made object to venture into outer space.
+        <strong>Raketnye Voiska Strategicheskogo Naznacheniya (RVSN USSR)</strong>  was responsible for the launch. This mission marked the
+        beginning of the great space race and the journey for human beings to explore the universe beyond the limits of our planet.
+      </h2>
+
+      <table>
+        <tr>
+        </tr>
+      <tr>
+        <td>
+          <h1 class="title is-4"><strong>Which countries have hosted the greatest number of space missions?</strong></h1>
+        </td>
+          <tr>
+            <td>
+          <div id="vis8"></div>
+          <script type="text/javascript">
+          var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/total_launches_CP.json";
+          vegaEmbed('#vis8', spec).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+          }).catch(console.error);
+          </script>
+        </td>
+        <td>
+      <h2 class="subtitle">
+        The artificial staellite Sputnik 8K71PS, more commonly known as <strong>Sputnik-1</strong> was the first man made object to venture into outer space.
+        <strong>Raketnye Voiska Strategicheskogo Naznacheniya (RVSN USSR)</strong>  was responsible for the launch. This mission marked the
+        beginning of the great space race and the journey for human beings to explore the universe beyond the limits of our planet.
+      </h2>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div id="vis9"></div>
+      <script type="text/javascript">
+      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_bar.json";
+      vegaEmbed('#vis9', spec).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      </script>
+      </td>
+    </tr>
+    </table>
     </div>
-    <div class="column">Auto
+    <div class="column" style=background:grey;>
     </div>
   </div>
 
 
+
+
+
   </div> <!-- end page -->
 
-<script type="text/javascript">
-  var specVis1 = "./normalised-stacked-bars-responsive.json";
-  var specVis2= "./line-chart-responsive.json";
-
-  vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-
-   vegaEmbed('#vis2', specVis2, {"actions": false}).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-
-  vegaEmbed('#vis3', specVis1, {"actions": false}).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-
-  vegaEmbed('#vis4', specVis2, {"actions": false}).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-</script>
 </body>
 </html>

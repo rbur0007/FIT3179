@@ -3,8 +3,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/spacelaunch_decade_addition.csv"
   },
-  "width": 400,
-  "height": 200,
+  "width": 800,
+  "height": 800,
   "mark": {"type": "line", "interpolate": "monotone"},
   "encoding": {
     "x": {"field": "year", "timeUnit": "year", "title": "Year"},
@@ -23,7 +23,12 @@
         ],
         "range": ["#40ba27", "#FF0004", "#EBE017", "#F2891F"]
       }
-    }
+    },
+    "tooltip": [
+      {"field": "SM", "title": "Mission Status"},
+      {"field": "year", "timeUnit": "year", "title": "Year"},
+      {"field": "count", "aggregate": "sum", "title": "No. Launches"}
+    ]
   },
   "config": {}
 }

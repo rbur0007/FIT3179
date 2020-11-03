@@ -1,22 +1,215 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
-  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
-  <!-- Import vega-embed -->
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <head>
+    <meta charset="utf-8">
+    <title>Data Visualisation 2</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+    <link rel="stylesheet" href="styles/debug.css">
+    <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+    <!-- Import vega-embed -->
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  </head>
+
+
+
+  <body>
+  <section class="hero is-dark">
+  <div class="hero-body">
+    <div class="container">
+      <p class="title is-1">Space Mission Launches</p>
+      <p class="subtitle is-3">from 1957 - 2020</p>
+    </div>
+  </div>
+  </section>
+  <style>
+     body{
+       background-color: lightgray;
+     }
+  </style>
+
 </head>
 <body>
 
-<div id="vis"></div>
 
-<script type="text/javascript">
-  var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/visualization_launches_per_site.vl.json";
-  vegaEmbed('#vis', spec).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-</script>
+  <div class="columns is-gapless is-multiline is-mobile">
+    <div class="column is-one-eighth">
+      is-one-quarter
+    </div>
+    <div class="column is-one-eighth">
+      is-one-quarter
+    </div>
+    <div class="column is-one-quarter">
+      is-one-quarter
+    </div>
+    <div class="column is-one-quarter">
+      is-one-quarter
+    </div>
+    <div class="column is-half">
+      is-half
+    </div>
+    <div class="column is-one-quarter">
+      is-one-quarter
+    </div>
+    <div class="column is-one-quarter">
+      is-one-quarter
+    </div>
+    <div class="column is-one-quarter">
+      is-one-quarter
+    </div>
+    <div class="column">
+      Auto
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body>
+  <section class="section">
+    <div class="container"><div>
+      <h2 class="subtitle">
+        The artificial staellite Sputnik 8K71PS, more commonly known as <strong>Sputnik-1</strong> was the first man made object to venture into outer space.
+        <strong>Raketnye Voiska Strategicheskogo Naznacheniya (RVSN USSR)</strong>  was responsible for the launch. This mission marked the
+        beginning of the great space race and the journey for human beings to explore the universe beyond the limits of our planet.
+      </h2>
+      <div id="vis1"></div>
+      <script type="text/javascript">
+      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/times_of_launches.json";
+      vegaEmbed('#vis1', spec).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      </script>
+    </div>
+  </section>
+</body>
+
+
+<body>
+  <section class="section">
+    <div class="container"><div>
+      <h1 class="subtitle">When do space launches most commonly occur?</h1>
+      <div id="vis"></div>
+      <script type="text/javascript">
+      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/launches_per_site_map.json";
+      vegaEmbed('#vis', spec).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      </script>
+    </div>
+  </section>
+</body>
+
+
+<body>
+  <section class="section">
+    <div class="container"><div>
+      <h1 class="subtitle">When do space launches most commonly occur?</h1>
+      <div id="vis3"></div>
+      <script type="text/javascript">
+      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/mission_success_failures_launch_site.json";
+      vegaEmbed('#vis3', spec).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      </script>
+    </div>
+  </section>
+</body>
+
+
+<body>
+  <section class="section">
+    <div class="container"><div>
+      <h1 class="subtitle">When do space launches most commonly occur?</h1>
+      <div id="vis4"></div>
+      <script type="text/javascript">
+      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top_5_companies_decades_grouped_bar.json";
+      vegaEmbed('#vis4', spec).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      </script>
+    </div>
+  </section>
+</body>
+
+<body>
+  <section class="section">
+    <div class="container"><div>
+      <h1 class="subtitle">When do space launches most commonly occur?</h1>
+      <div id="vis5"></div>
+      <script type="text/javascript">
+      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/scatterplot_successvsspend.json";
+      vegaEmbed('#vis5', spec).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      </script>
+    </div>
+  </section>
+</body>
+
+
+
+
+<body>
+  <section class="section">
+    <div class="container"><div>
+      <h1 class="subtitle">When do space launches most commonly occur?</h1>
+      <div id="vis7"></div>
+      <script type="text/javascript">
+      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/line_graph_success_failure_year.json";
+      vegaEmbed('#vis7', spec).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      </script>
+    </div>
+  </section>
+</body>
+
+
+<body>
+  <section class="section">
+    <div class="container"><div>
+      <h1 class="subtitle">When do space launches most commonly occur?</h1>
+      <div id="vis8"></div>
+      <script type="text/javascript">
+      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_bar.json";
+      vegaEmbed('#vis8', spec).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      </script>
+    </div>
+  </section>
+</body>
+
+
+<body>
+  <section class="section">
+    <div class="container"><div>
+      <h1 class="subtitle">When do space launches most commonly occur?</h1>
+      <div id="vis9"></div>
+      <script type="text/javascript">
+      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/total_launches_CP.json";
+      vegaEmbed('#vis9', spec).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      </script>
+    </div>
+  </section>
+</body>
+
+
 
 </body>
 </html>

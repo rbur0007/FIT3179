@@ -15,23 +15,19 @@
     <style>
       table {
         border-collapse: separate;
-        border-spacing: 0 20px;
+        border-spacing: 0 10px;
       }
       tr {margin: 10px;
-      padding: 20px;
-      }
-      tr {margin: 10px;
+      padding: 10px;
       }
       h1 {
-    padding: 20px;
+    padding: 10px;
           }
       h2 {
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
           }
-          h3 {
-        text-align:right;
-              }
+
       </style>
   </head>
 
@@ -48,11 +44,12 @@
       <p class="subtitle is-3">from 1957 - 2020</p>
     </td>
     </tr>
+
     </table>
-    </div>
-  </div>
-  </section>
-</head>
+      </div>
+      </div>
+      </section>
+      </head>
 
 
   <div class="columns">
@@ -71,10 +68,10 @@
         </td>
           <tr>
             <td>
-          <div id="vis8"></div>
+          <div id="vis1"></div>
           <script type="text/javascript">
           var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/total_launches_CP.json";
-          vegaEmbed('#vis8', spec).then(function(result) {
+          vegaEmbed('#vis1', spec).then(function(result) {
             // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
           }).catch(console.error);
           </script>
@@ -88,44 +85,60 @@
       </td>
     </tr>
 
-    </table>
-    </div>
-    <div class="column" style=background:grey;>
-    </div>
-  </div>
 
-
-  <div class="columns">
-    <div class="column"style=background:grey;>
-    </div>
-    <div class="column is-four-fifths">
-      <h3 class="title is-4"><strong>Which countries have hosted the greatest number of space missions?</strong></h3>
-
-      <table>
-          <tr>
-            <td>
-          <div id="vis9"></div>
-          <script type="text/javascript">
-          var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_area.json";
-          vegaEmbed('#vis9', spec).then(function(result) {
-            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-          }).catch(console.error);
-          </script>
-        </td>
-        <td>
-      <h2 class="subtitle">
-        At the beginning of the space race the <strong>United States of America</strong> and the <strong>Russia</strong>, then the USSR, were in a technological feud. Each was
-        racing to be the first to put humans in space and eventually on the moon. The number of launches in these countries is by far the highest,
-        Russia's total missions totalling 1398 and the USA 1349.
-      </h2>
+    <tr>
+      <td style="vertical-align:middle;">
+        <h3 class="subtitle">
+          As time progresses older rockets are retired from service and newer rockets take there place. This stacked bar graph to the right
+          illustrates that almost all of the rockets and satellites launches before 1991 are retired while only 1 rocket launched in 2020 has been retired.
+        </h3>
+      </td>
+      <td>
+          <h2 class="title is-4"><strong>How many rockets and satellites are currently active?</strong></h2>
+      <div id="vis2"></div>
+      <script type="text/javascript">
+      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_area.json";
+      vegaEmbed('#vis2', spec).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      </script>
       </td>
     </tr>
 
+
+    <td>
+      <h1 class="title is-4"><strong>Which countries have hosted the greatest number of space missions?</strong></h1>
+    </td>
+      <tr>
+        <td>
+      <div id="vis3"></div>
+      <script type="text/javascript">
+      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/line_graph_success_failure_year.json";
+      vegaEmbed('#vis3', spec).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      </script>
+    </td>
+    <td>
+  <h2 class="subtitle">
+    At the beginning of the space race the <strong>United States of America</strong> and the <strong>Russia</strong>, then the USSR, were in a technological feud. Each was
+    racing to be the first to put humans in space and eventually on the moon. The number of launches in these countries is by far the highest,
+    Russia's total missions totalling 1398 and the USA 1349.
+  </h2>
+  </td>
+</tr>
+
+
+
+
+
     </table>
     </div>
     <div class="column" style=background:grey;>
     </div>
   </div>
+
+
 
 
 

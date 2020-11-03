@@ -15,8 +15,23 @@
     <style>
       table {
         border-collapse: separate;
-        border-spacing: 0 15px;
+        border-spacing: 0 20px;
       }
+      tr {margin: 10px;
+      padding: 20px;
+      }
+      tr {margin: 10px;
+      }
+      h1 {
+    padding: 20px;
+          }
+      h2 {
+    margin: 10px;
+    padding: 20px;
+          }
+          h3 {
+        text-align:right;
+              }
       </style>
   </head>
 
@@ -26,7 +41,7 @@
     <div class="container">
       <table>
         <tr>
-          <td style="flex:none;width:10%">
+          <td style="flex:none;width:15%">
           </td>
           <td>
       <p class="title is-1">Space Mission Launches</p>
@@ -51,9 +66,6 @@
       </h2>
 
       <table>
-        <tr>
-        </tr>
-      <tr>
         <td>
           <h1 class="title is-4"><strong>Which countries have hosted the greatest number of space missions?</strong></h1>
         </td>
@@ -75,24 +87,40 @@
       </h2>
       </td>
     </tr>
-    <tr>
-      <td>
-        <h2 class="subtitle">
-          At the beginning of the space race the <strong>United States of America</strong> and the <strong>Russia</strong>, then the USSR, were in a technological feud. Each was
-          racing to be the first to put humans in space and eventually on the moon. The number of launches in these countries is by far the highest,
-          Russia's total missions totalling 1398 and the USA 1349.
-        </h2>
-      </td>
-      <td>
-      <div id="vis9"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_area.json";
-      vegaEmbed('#vis9', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
+
+    </table>
+    </div>
+    <div class="column" style=background:grey;>
+    </div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column"style=background:grey;>
+    </div>
+    <div class="column is-four-fifths">
+      <h3 class="title is-4"><strong>Which countries have hosted the greatest number of space missions?</strong></h3>
+
+      <table>
+          <tr>
+            <td>
+          <div id="vis9"></div>
+          <script type="text/javascript">
+          var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_area.json";
+          vegaEmbed('#vis9', spec).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+          }).catch(console.error);
+          </script>
+        </td>
+        <td>
+      <h2 class="subtitle">
+        At the beginning of the space race the <strong>United States of America</strong> and the <strong>Russia</strong>, then the USSR, were in a technological feud. Each was
+        racing to be the first to put humans in space and eventually on the moon. The number of launches in these countries is by far the highest,
+        Russia's total missions totalling 1398 and the USA 1349.
+      </h2>
       </td>
     </tr>
+
     </table>
     </div>
     <div class="column" style=background:grey;>
@@ -101,9 +129,6 @@
 
 
 
-
-
-  </div> <!-- end page -->
 
 </body>
 </html>

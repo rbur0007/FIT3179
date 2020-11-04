@@ -19,10 +19,7 @@
     h1 {
         margin: 20px;
         }
-    h3 {
-        margin: 20px;
-        padding-left:20 ;
-        }
+
 
   </style>
 </head>
@@ -88,23 +85,23 @@
 
 
   <div class="columns">
-    <div class="column is-2"style=background:grey;>Auto</div>
+    <div class="column is-2"style=background:grey;></div>
     <div class="column is-4"></div>
     <div class="column is-4">
         <h2 class="subtitle"><strong><i>Space mission rocket and satellite activity.</i></strong></h2>
     </div>
-    <div class="column is-2"style=background:grey;>Auto</div>
+    <div class="column is-2"style=background:grey;></div>
   </div>
 
 
   <div class="columns">
     <div class="column is-2"style=background:grey;></div>
-    <div class="column is-3">
-      <h2 class="subtitle">
+    <div class="column is-4">
+      <h3 class="subtitle">
                 As time progresses older rockets are retired from service and newer rockets take there place. This stacked bar graph to the right
                 illustrates that almost all of the rockets and satellites launches before 1991 are retired while only 1 rocket launched in 2020 has been retired.
-          </h2></div>
-    <div class="column is-5" id="vis2">is-two-thirds L2</div>
+          </h3></div>
+    <div class="column is-4" align="right"; id="vis2">is-two-thirds L2</div>
     <div class="column is-2"style=background:grey;></div>
   </div>
 
@@ -136,123 +133,11 @@
 
 
 
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle"><i>When do space launches most commonly occur?</i></h1>
-      <div id="vis"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/launches_per_site_map.json";
-      vegaEmbed('#vis', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
-
-
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis3"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/mission_success_failures_launch_site.json";
-      vegaEmbed('#vis3', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
-
-
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis4"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top_5_companies_decades_grouped_bar.json";
-      vegaEmbed('#vis4', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
-
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis5"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/scatterplot_successvsspend.json";
-      vegaEmbed('#vis5', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
 
 
 
 
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis7"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/line_graph_success_failure_year.json";
-      vegaEmbed('#vis7', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
 
-
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis8"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_bar.json";
-      vegaEmbed('#vis8', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
-
-
-
-
-<tr>
-  <td>
-    <h2 class="subtitle">
-      At the beginning of the space race the <strong>United States of America</strong> and the <strong>Russia</strong>, then the USSR, were in a technological feud. Each was
-      racing to be the first to put humans in space and eventually on the moon. The number of launches in these countries is by far the highest,
-      Russia's total missions totalling 1398 and the USA 1349.
-    </h2>
-  </td>
-  <td>
-  <div id="vis9"></div>
-  <script type="text/javascript">
-  var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_area.json";
-  vegaEmbed('#vis9', spec).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  </script>
-  </td>
-</tr>
 
 
 

@@ -2,7 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 550,
   "height": 260,
-  "projection": {"type": "equalEarth"},
+  "title": "No. Launches per Launch Site",
+  "projection": {"type": "equalEarth", "rotate": [-25, 0, 0]},
   "layer": [
     {
       "data": {
@@ -23,10 +24,7 @@
         "size": {
           "field": "launches",
           "type": "quantitative",
-          "scale": {
-            "type": "threshold",
-            "domain": [5, 20, 50, 100, 300, 400, 800, 1200]
-          },
+          "scale": {"type": "threshold", "domain": [5, 100, 200, 400, 800]},
           "legend": {"title": "No. Launches"}
         },
         "tooltip": [

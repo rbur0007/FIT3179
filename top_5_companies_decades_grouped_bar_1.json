@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top5_companies_decade_grouping_2.csv"
+    "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top5_companies_decade_grouping_1.csv"
   },
   "height": 120,
   "width": 250,

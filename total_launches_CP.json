@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 500,
-  "height": 300,
+  "width": 650,
+  "height": 350,
   "title": "Total Space Mission Launches per Country",
   "data": {
     "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/world_map.json",
@@ -20,7 +20,7 @@
     },
     {"calculate": "datum.count", "as": "No. Launches"}
   ],
-  "projection": {"type": "equalEarth"},
+  "projection": {"type": "equalEarth", "rotate": [-25, 0, 0]},
   "mark": {"type": "geoshape", "stroke": "grey"},
   "encoding": {
     "color": {

@@ -7,12 +7,7 @@
   "width": 250,
   "mark": "bar",
   "encoding": {
-    "column": {
-      "field": "decade",
-      "type": "ordinal",
-      "spacing": 10,
-      "title": "Top 5 Company Activity over 10 Year Periods"
-    },
+    "column": {"field": "decade", "type": "ordinal", "spacing": 10},
     "x": {
       "aggregate": "sum",
       "field": "count",

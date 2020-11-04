@@ -7,7 +7,12 @@
   "width": 250,
   "mark": "bar",
   "encoding": {
-    "column": {"field": "decade", "type": "ordinal", "spacing": 10},
+    "column": {
+      "field": "decade",
+      "type": "ordinal",
+      "spacing": 10,
+      "title": ""
+    },
     "x": {
       "aggregate": "sum",
       "field": "count",

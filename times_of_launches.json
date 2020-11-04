@@ -3,6 +3,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/spacelaunch_simple_time.csv"
   },
+  "title": "Proportion of Launches at Date-Time",
   "mark": "rect",
   "encoding": {
     "y": {

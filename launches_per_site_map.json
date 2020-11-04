@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 550,
+  "width": 520,
   "height": 260,
   "title": "No. Launches per Launch Site",
   "projection": {"type": "equalEarth", "rotate": [-25, 0, 0]},

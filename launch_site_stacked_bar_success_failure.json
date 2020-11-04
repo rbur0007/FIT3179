@@ -26,9 +26,12 @@
     "x": {
       "aggregate": "count",
       "stack": "normalize",
-      "title": "Propotion of Total Outcomes",
-      "scale": [100]
-    }
+      "title": "Propotion of Total Outcomes"
+    },
+    "tooltip": [
+      {"field": "Status Mission", "title": "Mission Status"},
+      {"aggregate": "count", "field": "count", "title": "No.Launches"}
+    ]
   },
   "config": {}
 }

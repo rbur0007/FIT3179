@@ -3,7 +3,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/spacelaunch_decade_addition.csv"
   },
-  "width": 400,
+  "title": "Total Launch Outcomes",
+  "width": 350,
   "height": 200,
   "mark": {"type": "line", "interpolate": "monotone"},
   "encoding": {

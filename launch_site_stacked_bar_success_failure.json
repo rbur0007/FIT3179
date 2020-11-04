@@ -29,6 +29,7 @@
       "title": "Propotion of Total Outcomes"
     },
     "tooltip": [
+      {"field": "location_abrev", "title": "Location"},
       {"field": "Status Mission", "title": "Mission Status"},
       {"aggregate": "count", "field": "count", "title": "No.Launches"}
     ]

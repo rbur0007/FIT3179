@@ -26,7 +26,8 @@
     "color": {
       "field": "launches",
       "type": "quantitative",
-      "title": "Total Launches"
+      "title": "Total Launches",
+      "scale": {"type": "threshold", "domain": [5, 50, 100, 200, 400, 800]}
     },
     "tooltip": [
       {"field": "properties.name", "type": "nominal", "title": "Country"},

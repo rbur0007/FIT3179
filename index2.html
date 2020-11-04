@@ -101,7 +101,7 @@
                 As time progresses older rockets are retired from service and newer rockets take there place. This stacked bar graph to the right
                 illustrates that almost all of the rockets and satellites launches before 1991 are retired while only 1 rocket launched in 2020 has been retired.
           </h3></div>
-    <div class="column is-4" align="right"; id="vis2">is-two-thirds L2</div>
+    <div class="column is-4" align="right"; id="vis2"></div>
     <div class="column is-2"style=background:grey;></div>
   </div>
 
@@ -133,7 +133,7 @@
 
   <div class="columns">
     <div class="column is-2"style=background:grey;></div>
-    <div class="column is-8"> is this working?</div>
+    <div class="column is-8" id="vis3"></div>
     <div class="column is-2"style=background:grey;></div>
   </div>
 
@@ -167,8 +167,8 @@
 
   <div class="columns">
     <div class="column is-2"style=background:grey;></div>
-    <div class="column is-4" id="vis3"></div>
-    <div class="column is-4"align="right"; id="vis4">
+    <div class="column is-4" id="vis5"></div>
+    <div class="column is-4"align="right"; id="vis6">
     </div>
     <div class="column is-2"style=background:grey;></div>
   </div>
@@ -262,26 +262,36 @@ vegaEmbed('#vis2', spec).then(function(result) {
 }).catch(console.error);
 </script>
 
+
 <script type="text/javascript">
-var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/line_graph_success_failure_year.json";
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top_5_companies_decades_grouped_bar_1.json";
 vegaEmbed('#vis3', spec).then(function(result) {
   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 </script>
 
+
 <script type="text/javascript">
-var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/scatterplot_successvsspend.json";
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top_5_companies_decades_grouped_bar_2.json";
 vegaEmbed('#vis4', spec).then(function(result) {
   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 </script>
 
 <script type="text/javascript">
-var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top_5_companies_decades_grouped_bar.jsonn";
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/line_graph_success_failure_year.json";
 vegaEmbed('#vis5', spec).then(function(result) {
   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 </script>
+
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/scatterplot_successvsspend.json";
+vegaEmbed('#vis6', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
+
 
 <script type="text/javascript">
 var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_area.json";

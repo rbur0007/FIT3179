@@ -193,12 +193,21 @@
     <div class="column is-2"style=background:grey;></div>
   </div>
 
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-4"></div>
+    <div class="column is-4">
+    </div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
 
   <div class="columns">
     <div class="column is-2"style=background:grey;></div>
     <div class="column is-4"></div>
     <div class="column is-4">
-        <h2 class="subtitle"><strong><i>Space Mission Rocket and Satellite Status</i></strong></h2>
+        <h2 class="subtitle"><strong><i>Global Launch Sites</i></strong></h2>
     </div>
     <div class="column is-2"style=background:grey;></div>
   </div>
@@ -211,13 +220,39 @@
                 As time progresses older rockets are retired from service and newer rockets take there place. This stacked bar graph to the right
                 illustrates that almost all of the rockets and satellites launches before 1991 are retired while only 1 rocket launched in 2020 has been retired.
           </h3></div>
-    <div class="column is-5" align="right"; id="vis7"></div>
+    <div class="column is-5" align="right"; id="vis8"></div>
     <div class="column is-2"style=background:grey;></div>
   </div>
 
 
   <div class="columns">
     <div class="column is-2"style=background:grey;></div>
+    <div class="column is-5">
+      <h2 class="subtitle"><strong><i>Successes and Failures of Each Launch Site</i></strong></h2>
+    </div>
+    <div class="column is-3"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-5" id="vis9"></div>
+    <div class="column is-3">
+      <h2 class="subtitle">
+        At the beginning of the space race the <strong>United States of America</strong> and the <strong>Russia</strong>, then the USSR, were in a technological feud. Each was
+        racing to be the first to put humans in space and eventually on the moon. The number of launches in these countries is by far the highest,
+        Russia's total missions totalling 1398 and the USA 1349.
+      </h2>
+    </div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
     <div class="column is-4">is-two-thirds L1</div>
     <div class="column is-4">is-two-thirds L2</div>
     <div class="column is-2"style=background:grey;></div>
@@ -233,32 +268,6 @@
 
 
 
-  <div class="columns">
-    <div class="column is-2"style=background:grey;>Auto</div>
-    <div class="column is-4">is-two-thirds L1</div>
-    <div class="column is-4">is-two-thirds L2</div>
-    <div class="column is-2"style=background:grey;>Auto</div>
-  </div>
-
-
-
-
-  <div class="columns">
-    <div class="column is-2"style=background:grey;>Auto</div>
-    <div class="column is-4">is-two-thirds L1</div>
-    <div class="column is-4">is-two-thirds L2</div>
-    <div class="column is-2"style=background:grey;>Auto</div>
-  </div>
-
-
-
-
-  <div class="columns">
-    <div class="column is-2"style=background:grey;>Auto</div>
-    <div class="column is-4">is-two-thirds L1</div>
-    <div class="column is-4">is-two-thirds L2</div>
-    <div class="column is-2"style=background:grey;>Auto</div>
-  </div>
 
 
 
@@ -320,22 +329,29 @@ vegaEmbed('#vis6', spec).then(function(result) {
 
 <script type="text/javascript">
 var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_area.json";
-vegaEmbed('#vis6', spec).then(function(result) {
+vegaEmbed('#vis7', spec).then(function(result) {
   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 </script>
 
 <script type="text/javascript">
 var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/launches_per_site_map.json";
-vegaEmbed('#vis7', spec).then(function(result) {
+vegaEmbed('#vis8', spec).then(function(result) {
   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 </script>
 
 
 <script type="text/javascript">
-var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/https://raw.githubusercontent.com/rbur0007/vis_2_test/main/mission_success_failures_launch_site.json";
-vegaEmbed('#vis8', spec).then(function(result) {
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/mission_success_failures_launch_site.json";
+vegaEmbed('#vis9', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
+
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/times_of_launches.json";
+vegaEmbed('#vis10', spec).then(function(result) {
   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 </script>

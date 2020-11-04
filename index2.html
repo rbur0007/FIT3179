@@ -74,18 +74,46 @@
 
 
   <div class="columns">
-    <div class="column is-2"style=background:grey;>Auto</div>
+    <div class="column is-2"style=background:grey;></div>
     <div class="column is-5" id="vis1"></div>
     <div class="column is-3">
-      <h3 style=padding-left:20;>
+      <h2 class="subtitle">
+        As time progresses older rockets are retired from service and newer rockets take there place. This stacked bar graph to the right
+        illustrates that almost all of the rockets and satellites launches before 1991 are retired while only 1 rocket launched in 2020 has been retired.
+      </h2>
+    </div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-3">
+      <h2 class="subtitle">
             At the beginning of the space race the <strong>United States of America</strong> and the <strong>Russia</strong>, then the USSR, were in a technological feud. Each was
             racing to be the first to put humans in space and eventually on the moon. The number of launches in these countries is by far the highest,
             Russia's total missions totalling 1398 and the USA 1349.
-      </h3>
-
+          </h2>
     </div>
-    <div class="column is-2"style=background:grey;>Auto</div>
+    <div class="column is-5"id="vis2"></div>
+    <div class="column is-2"style=background:grey;></div>
   </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-3">
+      <h1 class="subtitle-2">
+            At the beginning of the space race the <strong>United States of America</strong> and the <strong>Russia</strong>, then the USSR, were in a technological feud. Each was
+            racing to be the first to put humans in space and eventually on the moon. The number of launches in these countries is by far the highest,
+            Russia's total missions totalling 1398 and the USA 1349.
+      </h1>
+    <div class="column is-5" id="vis2"></div>
+    </div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
 
   <div class="columns">
     <div class="column"style=background:grey;>Auto</div>
@@ -225,13 +253,6 @@
 </tr>
 
 
-<div id="vis9"></div>
-<script type="text/javascript">
-var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/total_launches_CP.json";
-vegaEmbed('#vis9', spec).then(function(result) {
-  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-}).catch(console.error);
-</script>
 
 <script type="text/javascript">
 var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/total_launches_CP.json";
@@ -240,6 +261,12 @@ vegaEmbed('#vis1', spec).then(function(result) {
 }).catch(console.error);
 </script>
 
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/line_graph_success_failure_year.json";
+vegaEmbed('#vis2', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
 
 
 

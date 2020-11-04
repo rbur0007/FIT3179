@@ -63,7 +63,7 @@
   <div class="columns">
     <div class="column is-2"style=background:grey;></div>
     <div class="column is-5">
-      <h2 class="subtitle"><strong><i>Which countries have hosted the greatest number of space missions?</i></strong></h2>
+      <h2 class="subtitle"><strong><i>Global Space Mission Launches per Country</i></strong></h2>
     </div>
     <div class="column is-3"></div>
     <div class="column is-2"style=background:grey;></div>
@@ -88,7 +88,7 @@
     <div class="column is-2"style=background:grey;></div>
     <div class="column is-4"></div>
     <div class="column is-4">
-        <h2 class="subtitle"><strong><i>Space mission rocket and satellite status</i></strong></h2>
+        <h2 class="subtitle"><strong><i>Space Mission Rocket and Satellite Status</i></strong></h2>
     </div>
     <div class="column is-2"style=background:grey;></div>
   </div>
@@ -109,7 +109,7 @@
   <div class="columns">
     <div class="column is-2"style=background:grey;></div>
     <div class="column is-5">
-      <h2 class="subtitle"><strong><i>Overall mission success</i></strong></h2>
+      <h2 class="subtitle"><strong><i>Mission Spending and Success</i></strong></h2>
     </div>
     <div class="column is-3"></div>
     <div class="column is-2"style=background:grey;></div>
@@ -118,16 +118,51 @@
 
   <div class="columns">
     <div class="column is-2"style=background:grey;></div>
-    <div class="column is-4" id="vis3"></div>
-    <div class="column is-4">
+    <div class="column is-5">
       <h2 class="subtitle">
-        At the beginning of the space race the <strong>United States of America</strong> and the <strong>Russia</strong>, then the USSR, were in a technological feud. Each was
-        racing to be the first to put humans in space and eventually on the moon. The number of launches in these countries is by far the highest,
-        Russia's total missions totalling 1398 and the USA 1349.
-      </h2>
+            Space mission launches are a high-risk, high-reward operation with many opportunities for errors to arise. There are three failure
+            classifications: Overall <strong>Failure</strong>, <strong>Partial Failure</strong> and <strong>Prelaunch Failure</strong>.
+            Millions of dollars and lives at risk, hence failure rates are low. Initially the failure rate was 70%-80% but improvements
+            have been made and was only 9% in 2020.
+          </h2></div>
+    <div class="column is-3"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-4" id="vis3"></div>
+    <div class="column is-4"align="right"; id="vis4">
     </div>
     <div class="column is-2"style=background:grey;></div>
   </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-4"></div>
+    <div class="column is-4">
+        <h2 class="subtitle"><strong><i>Mission spending and success</i></strong></h2>
+    </div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-3">
+      <h3 class="subtitle">
+        The relationship between mission spending and success rate is weak. While some
+        <strong>The USA spends 28 times more</strong> on their each space launch on average but experiences
+        onky a 3.3% increase in success. Countries with similar or greater success rates spend
+        between $32-$47mil per launch.
+          </h3></div>
+    <div class="column is-5" align="right"; id="vis4">is-two-thirds L2</div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
 
 
   <div class="columns">
@@ -182,28 +217,6 @@
 
 
 
-  <div class="columns">
-    <div class="column is-2"style=background:grey;>Auto</div>
-    <div class="column is-4">is-two-thirds L1</div>
-    <div class="column is-4">is-two-thirds L2</div>
-    <div class="column is-2"style=background:grey;>Auto</div>
-  </div>
-
-  <div class="columns">
-    <div class="column"style=background:grey;>Auto</div>
-    <div class="column is-one-third">is-two-thirds L3</div>
-    <div class="column is-one-third">is-two-thirds L4</div>
-    <div class="column"style=background:grey;>Auto</div>
-  </div>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -231,14 +244,14 @@ vegaEmbed('#vis3', spec).then(function(result) {
 </script>
 
 <script type="text/javascript">
-var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_area.json";
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/scatterplot_successvsspend.json";
 vegaEmbed('#vis4', spec).then(function(result) {
   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 </script>
 
 <script type="text/javascript">
-var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_area.json";
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/main/top_5_companies_decades_grouped_bar.json";
 vegaEmbed('#vis5', spec).then(function(result) {
   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);

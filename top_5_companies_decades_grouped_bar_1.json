@@ -4,7 +4,7 @@
     "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top5_companies_decade_grouping_1.csv"
   },
   "height": 120,
-  "width": 250,
+  "width": 240,
   "mark": "bar",
   "encoding": {
     "column": {

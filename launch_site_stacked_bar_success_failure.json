@@ -1,0 +1,32 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "height": 300,
+  "width": 450,
+  "data": {
+    "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/stacked_bar_cut_down.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "y": {"title": "", "field": "location_abrev"},
+    "color": {
+      "type": "nominal",
+      "field": "Status Mission",
+      "scale": {
+        "domain": [
+          "Success",
+          "Failure",
+          "Prelaunch Failure",
+          "Partial Failure"
+        ],
+        "range": ["#40ba27", "#FF0004", "#EBE017", "#F2891F"]
+      },
+      "title": "Launch Outcome"
+    },
+    "x": {
+      "aggregate": "count",
+      "stack": "normalize",
+      "title": "Propotion of Total Outcomes"
+    }
+  },
+  "config": {}
+}

@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 400,
+  "width": 300,
   "height": 200,
   "data": {
     "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/spacelaunch_decade_addition.csv"

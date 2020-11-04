@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top5_companies_decade_grouping_1.csv"
+    "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top5_companies_decade_grouping_2.csv"
   },
   "height": 120,
   "width": 275,
@@ -11,13 +11,14 @@
       "field": "decade",
       "type": "ordinal",
       "spacing": 10,
-      "title": "Decade"
+      "title": "Top 5 Company Activity over 10 Year Periods"
     },
     "x": {
       "aggregate": "sum",
       "field": "count",
       "title": "Total Launches",
-      "axis": {"grid": false}
+      "axis": {"grid": false},
+      "scale": {"domain": [0, 800]}
     },
     "y": {"field": "CM", "axis": {"title": ""}},
     "color": {

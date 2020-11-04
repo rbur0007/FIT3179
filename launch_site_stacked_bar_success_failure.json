@@ -1,7 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "height": 300,
+  "height": 350,
   "width": 450,
+  "title": "Successes and Failures of each Launch Site (normalised)",
   "data": {
     "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/stacked_bar_cut_down.csv"
   },

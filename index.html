@@ -14,202 +14,381 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
   </head>
 
-
+  <!-- custom style -->
+  <style>
+    h1 {
+        margin: 20px;
+        font-family: Tahoma, Geneva, sans-serif;
+        font-size: 18px;
+        }
+        h2 {
+          font-family: Tahoma, Geneva, sans-serif;
+          font-size: 16px;
+        }
+        h3 {
+          font-family: Tahoma, Geneva, sans-serif;
+          font-size: 16px;
+        }
+        h4 {          font-family: Tahoma, Geneva, sans-serif;
+                  font-size: 16px;
+        }
+      h6 { text-align: center;
+        font-family: Tahoma, Geneva, sans-serif;
+                  font-size: 16px;
+      }
+  </style>
+</head>
+<body>
 
   <body>
-  <section class="hero is-dark">
-  <div class="hero-body">
-    <div class="container">
-      <p class="title is-1">Space Mission Launches</p>
-      <p class="subtitle is-3">from 1957 - 2020</p>
-    </div>
-  </div>
-  </section>
-  <style>
-     body{
-       background-color: lightgray;
-     }
-  </style>
+    <section class="hero is-dark">
+    <div class="hero-body">
+      <div class="container">
+        <table>
+          <tr>
+            <td style="flex:none;width:25%">
+            </td>
+            <td>
+        <p class="title is-1">Space Mission Launches</p>
+        <p class="subtitle is-3">from 1957 - 2020</p>
+      </td>
+      </tr>
+
+      </table>
+        </div>
+        </div>
+        </section>
 
 </head>
 <body>
 
 
-  <div class="columns is-gapless is-multiline is-mobile">
-    <div class="column is-one-eighth">
-      is-one-quarter
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-8">
+      <h1>
+        The artificial staellite Sputnik 8K71PS, more commonly known as <strong>Sputnik-1</strong> was the first man made object to venture into outer space.
+        <strong>Raketnye Voiska Strategicheskogo Naznacheniya (RVSN USSR)</strong>  was responsible for the launch. This mission marked the
+        beginning of the great space race and the journey for human beings to explore the universe beyond the limits of our planet.
+      </h1>
     </div>
-    <div class="column is-one-eighth">
-      is-one-quarter
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-5">
+      <h5 class="subtitle is-4"><i><b>Global Space Mission Launches per Country</b></i></h5>
     </div>
-    <div class="column is-one-quarter">
-      is-one-quarter
+    <div class="column is-3"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-5" id="vis1"></div>
+    <div class="column is-3">
+      <h2>
+        At the beginning of the space race the <strong>United States of America</strong> and the <strong>Russia</strong>, then the USSR, were in a technological feud. Each was
+        racing to be the first to put humans in space and eventually on the moon. The number of launches in these countries is by far the highest,
+        Russia's total missions totalling 1398 and the USA 1349.
+      </h2>
     </div>
-    <div class="column is-one-quarter">
-      is-one-quarter
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-4"></div>
+    <div class="column is-4">
+        <h5 class="subtitle is-4"><i><b>Space Mission Rocket and Satellite Status</i></b></h5>
     </div>
-    <div class="column is-half">
-      is-half
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-4">
+      <h3> As time progresses older rockets are retired from service and newer rockets take there place. This stacked bar graph to the right
+                illustrates that almost all of the rockets and satellites launches before 1991 are retired while only 1 rocket launched in 2020 has been retired.
+          </h3></div>
+    <div class="column is-4" align="right"; id="vis2"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-8"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-5">
+      <h5 class="subtitle is-4"><i><b>Top 5 Space Mission Launch Companies Over Time</i></b></h5>
     </div>
-    <div class="column is-one-quarter">
-      is-one-quarter
+    <div class="column is-3"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-5">
+      <h2>
+        The 5 companies with the greatest number of launches are the <strong>RVSN USSR</strong>, <strong>NASA (National Aeronautics and Space Administration)</strong>, <strong>Arianespace</strong>,
+        <strong>General Dynamics</strong> and <strong>CASC (China Aerospace Science and Technology Corporation)</strong>. Competition drove the USSR and the USA to increased numbers of launches
+        in the early days of space exploration but as time progressed the number of launches significantly reduced. Since the 1990's Arianespace (French Multinational) and CASC have been dominating the number of launches and the RVSN USSR has since dissolved.
+          </h2></div>
+    <div class="column is-3"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-8" id="vis3"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-8" id="vis4"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-8"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-5">
+      <h5 class="subtitle is-4"><i><b>Mission Spending and Success</i></b></h5>
     </div>
-    <div class="column is-one-quarter">
-      is-one-quarter
+    <div class="column is-3"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-5">
+      <h2>
+            Space mission launches are a high-risk, high-reward operation with many opportunities for errors. There are three failure
+            classifications: <strong>Overall Failure</strong>, <strong>Partial Failure</strong> and <strong>Prelaunch Failure</strong>.
+            Millions of dollars and lives at risk, hence failure rates are low. Initially the failure rate was 70%-80% but improvements
+            have been made and was only 9% in 2020.
+          </h2></div>
+    <div class="column is-3"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-4" id="vis5"></div>
+    <div class="column is-4"align="right"; id="vis6">
     </div>
-    <div class="column is-one-quarter">
-      is-one-quarter
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-1"></div>
+    <div class="column is-6">
+      <h6>
+            The relationship between mission spending and success rate is weak.
+            <strong>The USA spends 28 times more</strong> on per space launch on average than the <strong>smallest spender, New Zealand</strong>, but experiences
+            only a <strong>3.3%</strong> increase in success. Countries with similar or greater success rates spend between $32-$47mil per launch.
+          </h6></div>
+    <div class="column is-1"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-4"></div>
+    <div class="column is-4">
     </div>
-    <div class="column">
-      Auto
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-8"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-4"></div>
+    <div class="column is-4">
+        <h5 class="subtitle is-4"><i><b>Global Launch Sites</i></b></h5>
     </div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-3">
+      <h3>
+      Each country generally performs space mission launches on home soil from one or many launch sites. <strong>Cape Canaveral (USA)</strong>, <strong>Plesetsk Cosmodrome (Russia)</strong> and <strong>Baikonur Cosmodrome (Khazakstan)</strong>
+      are the most extensively used sites, globally. France is an exceptional case, their launches are performed from a French/European space port in French Guiana (South America).
+          </h3></div>
+    <div class="column is-5" align="right"; id="vis7"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-8"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-5">
+      <h5 class="subtitle is-4"><i><b>Successes and Failures of Each Launch Site</i></b></h5>
+    </div>
+    <div class="column is-3"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-5" id="vis8"></div>
+    <div class="column is-3">
+      <h2>
+        Launch sites experience varying degrees of success. Most experience partial failures, the <strong>Semnan Space Centre (Iran)</strong> is the only documented site
+        to have experienced a <strong>prelaunch</strong> failure. The <strong>Kauai Pacific Missile Range</strong>, <strong>Naval Air Station (California)</strong>, <strong>Tonghae Staellite Launching Ground(North Korea)</strong>
+        have few launches which all <strong>failed</strong>. <strong>Base Aerea de Gando Gran Canaria (Spain)</strong>, <strong>San Marco Launch Platform (Kenya)</strong>, <strong> West Texas Launch Site (USA)</strong>, <strong>Yasny Cosmodrome (Russia)</strong>,
+        <strong> Jiuquan Satellite Launch Centre (China)</strong>, <strong> Svobodny Cosmodrome (Russia)</strong> and <strong>Xichang Satellite Launch Centre (China)</strong> sites also have few launches but all <strong>successful</strong>.
+      </h2>
+    </div>
+    <div class="column is-2"style=background:grey;></div>
   </div>
 
 
 
 
-
-
-
-
-
-
-
-
-
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h2 class="subtitle">
-        The artificial staellite Sputnik 8K71PS, more commonly known as <strong>Sputnik-1</strong> was the first man made object to venture into outer space.
-        <strong>Raketnye Voiska Strategicheskogo Naznacheniya (RVSN USSR)</strong>  was responsible for the launch. This mission marked the
-        beginning of the great space race and the journey for human beings to explore the universe beyond the limits of our planet.
-      </h2>
-      <div id="vis1"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/times_of_launches.json";
-      vegaEmbed('#vis1', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-4"></div>
+    <div class="column is-4">
+        <h5 class="subtitle is-4"><i><b>Launch Days and Times</i></b></h5>
     </div>
-  </section>
-</body>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
 
 
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/launches_per_site_map.json";
-      vegaEmbed('#vis', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-3">
+      <h3>
+          In <strong>UTC (Coordinated Universal Time)</strong> the most common time for launches to occur is <strong>Wednesday between 09:00 and 10:00</strong>.
+          Launches rarely occur on Sundays and Mondays or in the very early hours of the morning.
+          </h3></div>
+    <div class="column is-5" align="right"; id="vis9"></div>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
+
+
+  <div class="columns">
+    <div class="column is-2"style=background:grey;></div>
+    <div class="column is-8" style=background:black>
+      <p style="color:grey"; font-size: 8px> Author: Rhiannon Burns </p1>
+      <p style="color:grey"; font-size: 8px> Credit to Kaggle user: Agirlcoding for Space_Corrected.csv data. Published 04/11/2020 </p1>
     </div>
-  </section>
-</body>
-
-
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis3"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/mission_success_failures_launch_site.json";
-      vegaEmbed('#vis3', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
-
-
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis4"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top_5_companies_decades_grouped_bar.json";
-      vegaEmbed('#vis4', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
-
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis5"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/scatterplot_successvsspend.json";
-      vegaEmbed('#vis5', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
+    <div class="column is-2"style=background:grey;></div>
+  </div>
 
 
 
 
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis7"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/line_graph_success_failure_year.json";
-      vegaEmbed('#vis7', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/total_launches_CP.json";
+vegaEmbed('#vis1', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
+
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_area.json";
+vegaEmbed('#vis2', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
 
 
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis8"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/rocket_status_stacked_bar.json";
-      vegaEmbed('#vis8', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top_5_companies_decades_grouped_bar_1.json";
+vegaEmbed('#vis3', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
 
 
-<body>
-  <section class="section">
-    <div class="container"><div>
-      <h1 class="subtitle">When do space launches most commonly occur?</h1>
-      <div id="vis9"></div>
-      <script type="text/javascript">
-      var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/total_launches_CP.json";
-      vegaEmbed('#vis9', spec).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      </script>
-    </div>
-  </section>
-</body>
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/top_5_companies_decades_grouped_bar_2.json";
+vegaEmbed('#vis4', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
+
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/line_graph_success_failure_year.json";
+vegaEmbed('#vis5', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
+
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/scatterplot_successvsspend.json";
+vegaEmbed('#vis6', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
 
 
+
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/launches_per_site_map.json";
+vegaEmbed('#vis7', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
+
+
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/launch_site_stacked_bar_success_failure.json";
+vegaEmbed('#vis8', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
+
+
+<script type="text/javascript">
+var spec = "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/times_of_launches.json";
+vegaEmbed('#vis9', spec).then(function(result) {
+  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+</script>
 
 </body>
 </html>

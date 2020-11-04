@@ -1,7 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 500,
+  "width": 450,
   "height": 300,
+  "title": "Currently Active/Inactive Space Missions per Launch Year",
   "data": {
     "url": "https://raw.githubusercontent.com/rbur0007/vis_2_test/main/spacelaunch_decade_addition.csv"
   },
